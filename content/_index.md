@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research covers a wide range of topics relevant to concrete materials/ structures, including experiments and simulations on early age properties/ behaviours, micromechanical properties/ behaviors, machine learning for surrogates of multiscale and multiphysics models, and calculation of structural properties/ behaviors of tunnels.
+        My research at TU Delft spans various facets of concrete materials and structures, encompassing experiments and simulations of early-age properties, micromechanical behaviors, and machine learning models for multiscale and multiphysics simulations. I also focus on structural properties of tunnels.
     
-        I am currently working with generative machine learning and physics-informed machine learning for multiscale computational mechanics. I am about to start a new project on developing zero-emission building materials enhanced by artificial intelligence.
+        Currently, I am engaged in generative and physics-informed machine learning for multiscale computational mechanics. Soon, I will embark on a project aimed at developing zero-emission building materials enhanced by artificial intelligence.
     
-        Please do not hesitate to reach out to discuss or collaborate 😃
+        I welcome any opportunity for discussion or collaboration 😃
     
     design:
       columns: '1'
