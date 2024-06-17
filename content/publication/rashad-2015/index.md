@@ -1,0 +1,30 @@
+---
+title: An investigation on very high volume slag pastes subjected to elevated temperatures
+authors:
+- Alaa M. Rashad
+date: '2015-01-01'
+publishDate: '2024-06-17T14:55:15.723144Z'
+publication_types:
+- article-journal
+publication: '*Construction and Building Materials*'
+doi: 10.1016/J.CONBUILDMAT.2014.10.019
+abstract: In this investigation, high volume slag (HVS) pastes were studied under
+  heat treatment. Portland cement (PC) was replaced with ground granulated blast-furnace
+  slag (shortened as slag) at levels of 0%, 85%, 90%, 95% and 100%, by weight. The
+  pastes were exposed to elevated temperatures ranging from 200 °C to 800 °C with
+  an increment of 200 °C for 2 h. Compressive strengths and pH values before and after
+  firing were measured. The various decomposition phases formed were identified using
+  X-ray diffraction (XRD) and thermogravimetric (TGA) analyses. The morphology of
+  the formed hydrates was studied using scanning electron microscopy (SEM). Visual
+  inspections were also conducted. The results showed an increase in the reference
+  compressive strength of HVS pastes with heat treatment up to 600 °C, then a reduction
+  at 800 °C was observed. The relative compressive strength of HVS pastes was higher
+  than that of 100% PC paste. The optimum slag content was 85% which exhibited residual
+  compressive strength comparable to that of 100% PC at 600 °C and 800 °C. The pH
+  values of the pastes decreased with increasing heat treatment and slag content.
+tags:
+- High volume slag (HVS)
+- Residual compressive strength
+- Thermal load
+- pH value
+---

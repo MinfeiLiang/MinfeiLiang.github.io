@@ -1,0 +1,41 @@
+---
+title: Multiscale modeling elastic properties of cement-based materials considering
+  imperfect interface effect
+authors:
+- Siming Liang
+- Ya Wei
+- Zehong Wu
+date: '2017-11-01'
+publishDate: '2024-06-17T14:55:15.477457Z'
+publication_types:
+- article-journal
+publication: '*Construction and Building Materials*'
+doi: 10.1016/j.conbuildmat.2017.07.196
+abstract: Imperfect interface between the inclusions and the matrix has a significant
+  influence on the macro properties of the composites. In this study, the effective
+  elastic properties of cement pastes with water/cement (w/c) ratios of 0.3, 0.4,
+  and 0.5 were homogenized from the calcium silicate hydrate (CSH) scale based on
+  a multiscale model. The perfect and imperfect interfaces between inclusions and
+  the matrix were assumed for the prediction. The imperfect interface is characterized
+  by spring-layers of vanishing thickness in the tangential directions, and an interface
+  sliding parameter (π/d) is used to reflect the imperfection of the interfaces. The
+  predicted results were then compared to the measured one by instrumented indentation
+  as well as the existing data from the literature. It is found that the perfect interface
+  condition would overestimate the elastic modulus of cement-based materials. However,
+  the homogenization scheme with imperfect interface can predict the effective elastic
+  properties very well. This indicates that the imperfect interface may exist in cement-based
+  materials and affect the effective elastic properties. The imperfect interface effect
+  appears to be less significant with increasing curing age and vary with the mix
+  proportion of cement-based materials. Therefore, the imperfect interface conditions
+  should be adopted in the homogenization of the elastic properties for cement-based
+  materials.
+tags:
+- Cement-based materials
+- Elastic property
+- Imperfect interface
+- Instrumented indentation
+- Multiscale homogenization
+links:
+- name: URL
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0950061817315398
+---

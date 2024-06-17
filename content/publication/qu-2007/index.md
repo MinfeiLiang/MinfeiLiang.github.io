@@ -1,0 +1,26 @@
+---
+title: Fundamentals of Micromechanics of Solidss
+authors:
+- Jianmin Qu
+- Mohammed Cherkaoui
+date: '2007-01-01'
+publishDate: '2024-06-17T14:55:15.784854Z'
+publication_types:
+- book
+publication: '*Fundamentals of Micromechanics of Solids*'
+doi: 10.1002/9780470117835
+abstract: "he complete primer to micromechanics. Fundamentals of Micromechanics of
+  Solids is the first book integrating various approaches in micromechanics into a
+  unified mathematical framework, complete with coverage of both linear and nonlinear
+  behaviors. Based on this unified framework, results from the authors' own research,
+  as well as existing results in the literature are re-derived in a logical, pedagogical,
+  and understandable approach. It enables readers to follow the various developments
+  of micromechanics theories and quickly understand its wide range of applications
+  of micromechanics. This helpful guide is a powerful tool for learning the most fundamental
+  ideas and approaches, basic concepts, principles, and methodologies of micromechanics.
+  Readers will find: Vigorous derivations of the mathematical framework. Introductions
+  to both linear and nonlinear material behavior. Unique coverage of brittle damage,
+  shape memory alloys, and TRIP steels. Large numbers of problems and exercises to
+  support teaching and learning the concepts. Lists of references and suggested readings
+  in each chapter. © 2006 John Wiley & Sons, Inc."
+---

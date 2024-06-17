@@ -1,0 +1,34 @@
+---
+title: A viscoelastic poromechanical model for shrinkage and creep of concrete
+authors:
+- Abudushalamu Aili
+- Matthieu Vandamme
+- Jean Michel Torrenti
+- Benoit Masson
+date: '2020-03-01'
+publishDate: '2024-06-17T14:55:15.412019Z'
+publication_types:
+- article-journal
+publication: '*Cement and Concrete Research*'
+doi: 10.1016/J.CEMCONRES.2019.105970
+abstract: 'Long-term delayed strain of concrete impacts the lifetime of civil engineering
+  structures such as dams, nuclear power plants, nuclear waste storage tunnels or
+  large bridges. In design practice, the long-term delayed strain of concrete is decomposed
+  into four components: autogenous shrinkage, basic creep, drying shrinkage and drying
+  creep. The four components are first computed separately and then summed up to obtain
+  the total delayed strain of concrete, without wondering about any potential correlation
+  between them. In this work, we aim at modeling the total delayed strain in a unified
+  manner, without assuming this decomposition a priori. Such model is derived in the
+  framework of viscoelastic poromechanics. The influence of relative humidity on the
+  creep properties is taken into account. We assume that drying creep is due to the
+  fact that the mechanical consequences of capillary effects are larger in loaded
+  drying specimens than in non-loaded drying specimens. The model is validated by
+  comparing the prediction with experimental results of delayed strain from the literature
+  and discussed with respect to existing models.'
+tags:
+- Concrete (E)
+- Creep (C)
+- Drying (A)
+- Humidity (A)
+- Shrinkage (C)
+---

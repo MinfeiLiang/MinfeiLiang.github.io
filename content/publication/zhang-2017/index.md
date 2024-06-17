@@ -1,0 +1,34 @@
+---
+title: Experimentally validated multi-scale modelling scheme of deformation and fracture
+  of cement paste
+authors:
+- Hongzhi Zhang
+- Branko Šavija
+- Stefan Chaves Figueiredo
+- Erik Schlangen
+date: '2017-12-01'
+publishDate: '2024-06-17T14:55:15.501198Z'
+publication_types:
+- article-journal
+publication: '*Cement and Concrete Research*'
+doi: 10.1016/J.CEMCONRES.2017.09.011
+abstract: This paper presents a validation procedure of multi-scale modelling scheme
+  by making, testing and modelling deformation and fracture of cement paste beam at
+  sub-meso scale (between micro and meso scale). Miniaturized three-point bending
+  testing concepts were adopted. Cement paste beams with a cross-section of 500 μm
+  × 500 μm were fabricated using a micro dicing saw and subjected to bending using
+  nanoindenter. Simultaneously, fracture behaviour of the same size specimens was
+  predicted by a microstructure informed multi-scale lattice fracture model in which
+  input microstructures are obtained by X-ray computed tomography at two scales (micro
+  and sub-meso). Uncoupled upscaling approach was used to relate the material's mechanical
+  behaviour at sub-meso scale with the microstructures at lower scale. A good agreement
+  between experimental and numerical results was observed which shows that starting
+  from micro scale and with relatively simple mechanical considerations it is possible
+  to correctly reproduce behaviour at upper scale.
+tags:
+- Cement paste
+- Flexural tensile strength
+- Micro-beam
+- Nanoindentation
+- Three-point bending
+---
