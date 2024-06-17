@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research spans various facets of concrete materials and structures, encompassing experiments and simulations of early-age properties, micromechanical behaviors, and machine learning models for multiscale and multiphysics simulations. I also focus on structural properties of tunnels.
+        My research spans various aspects of concrete materials and structures, encompassing experiments and simulations of early-age properties/ behaviors, micromechanical properties/ behaviors, and machine learning models for multiscale and multiphysics simulations. I am also interested in structural properties of transportation structures such as tunnels and bridges.
     
         Currently, I am engaged in generative and physics-informed machine learning for multiscale computational mechanics. Soon, I will embark on a project aimed at developing zero-emission building materials enhanced by artificial intelligence.
     
