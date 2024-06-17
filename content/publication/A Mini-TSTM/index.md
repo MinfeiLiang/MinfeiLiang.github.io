@@ -7,11 +7,11 @@ title: 'A Mini-TSTM for Efficient Stress Test'
 authors:
   - admin
 
-date: '2022-12-01T00:00:00Z'
+date: '2024-01-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-12-01T00:00:00Z'
+publishDate: '2024-02-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
