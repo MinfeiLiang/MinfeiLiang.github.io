@@ -117,7 +117,7 @@ languages:
     percent: 100
   - name: English
     percent: 85
-  - name: Min-Nan/ Hokkien/ Taiwan Language
+  - name: Hokkien/ Taiwan Language
     percent: 95
   - name: Dutch
     percent: 15
