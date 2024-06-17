@@ -67,7 +67,7 @@ education:
     date_start: 2013-09-01
     date_end: 2017-06-01
     summary: |
-      GPA: 3.5/4.0
+      GPA: 91/100
       
 work:
   - position: Postdoctoral Researcher
