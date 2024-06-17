@@ -52,7 +52,7 @@ education:
     date_start: 2020-10-15
     date_end: 2024-04-03
     summary: |
-      Thesis on _Stress evolution in early-age concrete considering autogenous deformation and creep: New experimental and modelling techniques_. Supervised by [Prof Erik Schlangen](https://www.erikschlangen.net/) and [Prof Branko Šavija](https://www.tudelft.nl/en/staff/b.savija/).
+      Thesis on _Stress evolution in early-age concrete considering autogenous deformation and creep: New experimental and modelling techniques_. Supervised by Prof. Erik Schlangen and Prof. Branko Šavija.
     button:
       text: 'Read Thesis'
       url: 'https://pure.tudelft.nl/ws/portalfiles/portal/181953409/Thesis_Minfei_Liang.pdf'
@@ -61,7 +61,7 @@ education:
     date_start: 2017-09-01
     date_end: 2020-06-01
     summary: |
-      Thesis on _Experimental and numerical study on water permeability of tunnel lining concrete_. Supervised by [Prof Chuan He (何川）](https://www.swjtu.edu.cn/info/1070/14827.htm) and [Prof Kun Feng](https://faculty.swjtu.edu.cn/fengkun/zh_CN/index.htm).
+      Thesis on _Experimental and numerical study on water permeability of tunnel lining concrete_. Supervised by Prof. Chuan He (何川) and Prof. Kun Feng (封坤).
   - area: BSc Civil Engineering
     institution: Southwest Jiaotong University
     date_start: 2013-09-01
