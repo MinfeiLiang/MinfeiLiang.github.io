@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhD Study | MinfeiLiang</title>
+    <link>http://localhost:1313/tags/phd-study/</link>
+      <atom:link href="http://localhost:1313/tags/phd-study/index.xml" rel="self" type="application/rss+xml" />
+    <description>PhD Study</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>PhD Study</title>
+      <link>http://localhost:1313/tags/phd-study/</link>
+    </image>
+    
+    <item>
+      <title>My PhD defense</title>
+      <link>http://localhost:1313/post/phd_defense/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/phd_defense/</guid>
+      <description>&lt;p&gt;I am glad to announce that I have recently completed my Ph.D. at Delft University of Technology (TU Delft). My dissertation, titled &amp;ldquo;Stress Evolution in Early-Age Cementitious Materials Considering Autogenous Deformation and Creep: New Experimental and Modelling Techniques,&amp;rdquo; aims to tackle the early-age cracking problems of concrete and develop new experimental and modeling approaches.&lt;/p&gt;
+&lt;p&gt;I would like to express my heartfelt gratitude to my advisors, Erik Schlangen and Branko Savija, for their invaluable guidance and support throughout my research journey. Their expertise and encouragement have been crucial in my academic and personal growth. I extend my thanks to the committee members Klaas van Breugel, Max Hendriks, Eddie Koenders, Stephanie Staquet, Ya Wei, and Chris Kleijn for their feedback and contributions to my dissertation.
+I also want to thank my colleagues at the Microlab for their collaboration and friendship, which have greatly enriched my experience.&lt;/p&gt;
+&lt;p&gt;This journey has been a transformative phase of my life, and I am excited to apply the knowledge and skills I have acquired to contribute to the field and tackle new challenges ahead.
+Thank you all for being a part of my journey!&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
