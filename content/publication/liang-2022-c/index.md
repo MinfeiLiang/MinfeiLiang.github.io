@@ -1,0 +1,44 @@
+---
+title: 'Stress evolution in restrained GGBFS concrete due to autogenous deformation:
+  bayesian optimization of aging creep'
+authors:
+- Minfei Liang
+- Zhenming Li
+- Shan He
+- Ze Chang
+- Yidong Gan
+- Erik Schlangen
+- Branko Šavija
+date: '2022-03-01'
+publishDate: '2024-06-17T22:10:18.118687Z'
+publication_types:
+- article-journal
+publication: '*Construction and Building Materials*'
+doi: 10.1016/J.CONBUILDMAT.2022.126690
+abstract: 'Stress evolution of restrained concrete is a significant direct index in
+  early-age cracking (EAC) analysis of concrete. This study presents experiments and
+  numerical modelling of the early-age stress evolution of Ground granulated blast
+  furnace slag (GGBFS) concrete, considering the development of autogenous deformation
+  and creep. Temperature Stress Testing Machine (TSTM) tests were conducted to obtain
+  the autogenous deformation and stress evolution of restrained GGBFS concrete. By
+  a self-defined material subroutine based on the Rate-type creep law, the FEM model
+  for simulating the stress evolution in TSTM tests was established. By characterizing
+  the creep compliance function with a 13-units continuous Kelvin chain, forward modelling
+  was firstly conducted to predict the stress development. Then inverse modelling
+  was conducted by Bayesian Optimization to efficiently modify the arbitrary assumption
+  of the codes on the aging creep. The major findings of this study are as follows:
+  1) the high autogenous expansion of GGBFS induces compressive stress at first hours,
+  but its value is low because of high relaxation and low elastic modulus; 2) The
+  codes highly underestimated the early-age creep of GGBFS concrete. They performed
+  well in prediction of stress after 200 h, but showed significant gaps in predictions
+  of early-age stress evolution; 3) The proposed inverse modelling method with Bayesian
+  Optimization can efficiently adjusted the aging terms which produced best modelling
+  results. The adjusted creep compliance function of GGBFS showed a much faster aging
+  speed at early ages than the one proposed by original codes.'
+tags:
+- Autogenous shrinkage
+- Concrete
+- Creep
+- Early age cracking
+- Relaxation
+---
