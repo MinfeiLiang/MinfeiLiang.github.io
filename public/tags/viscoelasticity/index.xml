@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viscoelasticity | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/viscoelasticity/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/viscoelasticity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Viscoelasticity</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Viscoelasticity</title>
+      <link>https://MinfeiLiang.github.io/tags/viscoelasticity/</link>
+    </image>
+    
+    <item>
+      <title>Intrinsic viscoelasticity of C-S-H assessed from basic creep of cement pastes</title>
+      <link>https://MinfeiLiang.github.io/publication/hu-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hu-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basic creep of cement paste at early age - the role of cement hydration</title>
+      <link>https://MinfeiLiang.github.io/publication/wyrzykowski-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wyrzykowski-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bending and creep buckling response of viscoelastic functionally graded beam-columns</title>
+      <link>https://MinfeiLiang.github.io/publication/hamed-2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hamed-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viscoelastic Timoshenko beam theory</title>
+      <link>https://MinfeiLiang.github.io/publication/hilton-2009/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hilton-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aging Maxwell Constitutive Model for Concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/suter-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/suter-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

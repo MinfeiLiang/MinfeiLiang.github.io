@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apparent Activation Energy | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/apparent-activation-energy/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/apparent-activation-energy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Apparent Activation Energy</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Apparent Activation Energy</title>
+      <link>https://MinfeiLiang.github.io/tags/apparent-activation-energy/</link>
+    </image>
+    
+    <item>
+      <title>Early-age hydration and mechanical properties of high volume slag and fly ash concrete at different curing temperatures</title>
+      <link>https://MinfeiLiang.github.io/publication/xu-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/xu-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring and modelling the early age and hardening behaviour of eco-concrete through continuous non-destructive measurements: Part I. Hydration and apparent activation energy</title>
+      <link>https://MinfeiLiang.github.io/publication/carette-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/carette-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strength development of mortars containing ground granulated blast-furnace slag: Effect of curing temperature and determination of apparent activation energies</title>
+      <link>https://MinfeiLiang.github.io/publication/barnett-2006/</link>
+      <pubDate>Wed, 01 Mar 2006 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/barnett-2006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

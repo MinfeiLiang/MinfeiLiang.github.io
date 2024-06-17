@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uniaxial Restraint Test | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/uniaxial-restraint-test/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/uniaxial-restraint-test/index.xml" rel="self" type="application/rss+xml" />
+    <description>Uniaxial Restraint Test</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Uniaxial Restraint Test</title>
+      <link>https://MinfeiLiang.github.io/tags/uniaxial-restraint-test/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of behavior and cracking potential of early-age cementitious systems using uniaxial restraint tests: A review</title>
+      <link>https://MinfeiLiang.github.io/publication/xin-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/xin-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creep (C) | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/creep-c/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/creep-c/index.xml" rel="self" type="application/rss+xml" />
+    <description>Creep (C)</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Creep (C)</title>
+      <link>https://MinfeiLiang.github.io/tags/creep-c/</link>
+    </image>
+    
+    <item>
+      <title>Creep behavior of C-S-H under different drying relative humidities: Interpretation of microindentation tests and sorption measurements by multi-scale analysis</title>
+      <link>https://MinfeiLiang.github.io/publication/suwanmaneechot-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/suwanmaneechot-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A viscoelastic poromechanical model for shrinkage and creep of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/aili-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/aili-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the behaviour of concrete at early-ages: A multiphase description of hygro-thermo-chemo-mechanical properties</title>
+      <link>https://MinfeiLiang.github.io/publication/gasch-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gasch-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is long-term autogenous shrinkage a creep phenomenon induced by capillary effects due to self-desiccation?</title>
+      <link>https://MinfeiLiang.github.io/publication/aili-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/aili-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concrete creep modelling for structural applications: Non-linearity, multi-axiality, hydration, temperature and drying effects</title>
+      <link>https://MinfeiLiang.github.io/publication/sellier-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/sellier-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation of the effect of aggregates&#39; morphology on concrete creep properties by numerical simulations</title>
+      <link>https://MinfeiLiang.github.io/publication/lavergne-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lavergne-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanoindentation investigation of creep properties of calcium silicate hydrates</title>
+      <link>https://MinfeiLiang.github.io/publication/vandamme-2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/vandamme-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

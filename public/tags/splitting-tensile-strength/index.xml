@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Splitting Tensile Strength | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/splitting-tensile-strength/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/splitting-tensile-strength/index.xml" rel="self" type="application/rss+xml" />
+    <description>Splitting Tensile Strength</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Splitting Tensile Strength</title>
+      <link>https://MinfeiLiang.github.io/tags/splitting-tensile-strength/</link>
+    </image>
+    
+    <item>
+      <title>Size effect on splitting strength of hardened cement paste: Experimental and numerical study</title>
+      <link>https://MinfeiLiang.github.io/publication/zhang-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhang-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental relationship between splitting tensile strength and compressive strength of GFRC and PFRC</title>
+      <link>https://MinfeiLiang.github.io/publication/choi-2005/</link>
+      <pubDate>Mon, 01 Aug 2005 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/choi-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of splitting tensile strength of high-performance concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/zain-2002/</link>
+      <pubDate>Thu, 01 Aug 2002 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zain-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

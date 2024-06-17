@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strength | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/strength/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/strength/index.xml" rel="self" type="application/rss+xml" />
+    <description>Strength</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Strength</title>
+      <link>https://MinfeiLiang.github.io/tags/strength/</link>
+    </image>
+    
+    <item>
+      <title>Considering the effect of the randomness of concrete strength and relative humidity on concrete creep</title>
+      <link>https://MinfeiLiang.github.io/publication/zheng-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zheng-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can the compressive strength of concrete be estimated from knowledge of the mixture proportions?: New insights from statistical analysis and machine learning methods</title>
+      <link>https://MinfeiLiang.github.io/publication/young-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/young-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early-age evolution of strength, stiffness, and non-aging creep of concretes: Experimental characterization and correlation analysis</title>
+      <link>https://MinfeiLiang.github.io/publication/ausweger-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ausweger-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of aggregate type on the strength and elastic modulus of high strength concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/beushausen-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/beushausen-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A numerical recipe for modelling hydration and heat flow in hardening concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/martinelli-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/martinelli-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected engineering properties of concrete incorporating slag and metakaolin</title>
+      <link>https://MinfeiLiang.github.io/publication/khatib-2005/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/khatib-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log Double Power Law for Concrete Creep</title>
+      <link>https://MinfeiLiang.github.io/publication/balant-1985/</link>
+      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/balant-1985/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

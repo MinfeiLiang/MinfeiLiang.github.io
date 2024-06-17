@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mortar | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/mortar/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/mortar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mortar</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Mortar</title>
+      <link>https://MinfeiLiang.github.io/tags/mortar/</link>
+    </image>
+    
+    <item>
+      <title>Restraining effect of aggregates on autogenous shrinkage in cement mortar and concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/lu-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lu-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An overview on rheology, mechanical properties and durability of high-volume slag used as a cement replacement in paste, mortar and concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/rashad-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/rashad-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring the setting process of mortars by ultrasonic P and S-wave transmission velocity measurement</title>
+      <link>https://MinfeiLiang.github.io/publication/carette-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/carette-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

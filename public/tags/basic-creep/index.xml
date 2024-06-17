@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basic Creep | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/basic-creep/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/basic-creep/index.xml" rel="self" type="application/rss+xml" />
+    <description>Basic Creep</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Basic Creep</title>
+      <link>https://MinfeiLiang.github.io/tags/basic-creep/</link>
+    </image>
+    
+    <item>
+      <title>Basic creep of cement paste at early age - the role of cement hydration</title>
+      <link>https://MinfeiLiang.github.io/publication/wyrzykowski-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wyrzykowski-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of some basic creep tests on concrete and their implications for modeling</title>
+      <link>https://MinfeiLiang.github.io/publication/torrenti-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/torrenti-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling basic creep of concrete since setting time</title>
+      <link>https://MinfeiLiang.github.io/publication/delsaute-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/delsaute-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concrete early age basic creep: Experiments and test of rheological modelling approaches</title>
+      <link>https://MinfeiLiang.github.io/publication/briffaut-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/briffaut-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

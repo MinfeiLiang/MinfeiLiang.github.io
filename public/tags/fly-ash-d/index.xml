@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fly Ash (D) | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/fly-ash-d/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/fly-ash-d/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fly Ash (D)</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Fly Ash (D)</title>
+      <link>https://MinfeiLiang.github.io/tags/fly-ash-d/</link>
+    </image>
+    
+    <item>
+      <title>Comparison of tensile and compressive creep of fly ash concretes in the hardening phase</title>
+      <link>https://MinfeiLiang.github.io/publication/klausen-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/klausen-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of superabsorbent polymers on the autogenous shrinkage properties of cement pastes with supplementary cementitious materials</title>
+      <link>https://MinfeiLiang.github.io/publication/snoeck-2015/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/snoeck-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

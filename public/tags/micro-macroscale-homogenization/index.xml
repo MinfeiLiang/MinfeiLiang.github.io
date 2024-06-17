@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Micro-Macroscale Homogenization | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/micro-macroscale-homogenization/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/micro-macroscale-homogenization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Micro-Macroscale Homogenization</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Micro-Macroscale Homogenization</title>
+      <link>https://MinfeiLiang.github.io/tags/micro-macroscale-homogenization/</link>
+    </image>
+    
+    <item>
+      <title>Use of nanoindentation phase characterization and homogenization to estimate the elastic modulus of heterogeneously decalcified cement pastes</title>
+      <link>https://MinfeiLiang.github.io/publication/brown-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/brown-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

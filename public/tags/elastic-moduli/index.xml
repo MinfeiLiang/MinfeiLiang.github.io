@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elastic Moduli | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/elastic-moduli/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/elastic-moduli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elastic Moduli</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Elastic Moduli</title>
+      <link>https://MinfeiLiang.github.io/tags/elastic-moduli/</link>
+    </image>
+    
+    <item>
+      <title>Multi-level homogenization for the prediction of the mechanical properties of ultra-high-performance concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/haile-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/haile-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling elasticity of a hydrating cement paste</title>
+      <link>https://MinfeiLiang.github.io/publication/sanahuja-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/sanahuja-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of two types of C-S-H on the elasticity of cement-based materials: Results from nanoindentation and micromechanical modeling</title>
+      <link>https://MinfeiLiang.github.io/publication/constantinides-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/constantinides-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multiscale micromechanics-hydration model for the early-age elastic properties of cement-based materials</title>
+      <link>https://MinfeiLiang.github.io/publication/bernard-2003/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bernard-2003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

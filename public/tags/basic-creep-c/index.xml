@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basic Creep (C) | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/basic-creep-c/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/basic-creep-c/index.xml" rel="self" type="application/rss+xml" />
+    <description>Basic Creep (C)</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Basic Creep (C)</title>
+      <link>https://MinfeiLiang.github.io/tags/basic-creep-c/</link>
+    </image>
+    
+    <item>
+      <title>Comparison of tensile and compressive creep of fly ash concretes in the hardening phase</title>
+      <link>https://MinfeiLiang.github.io/publication/klausen-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/klausen-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of concrete creep in tension and in compression: Influence of concrete age at loading and drying conditions</title>
+      <link>https://MinfeiLiang.github.io/publication/rossi-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/rossi-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

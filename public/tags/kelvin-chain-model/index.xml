@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kelvin Chain Model | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/kelvin-chain-model/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/kelvin-chain-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kelvin Chain Model</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Kelvin Chain Model</title>
+      <link>https://MinfeiLiang.github.io/tags/kelvin-chain-model/</link>
+    </image>
+    
+    <item>
+      <title>Effect of creep on high-order shear deformable beams</title>
+      <link>https://MinfeiLiang.github.io/publication/ghabdian-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ghabdian-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Algorithm for Efficient and Realistic Creep Analysis of Large Creep-Sensitive Concrete Structures</title>
+      <link>https://MinfeiLiang.github.io/publication/yu-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/yu-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

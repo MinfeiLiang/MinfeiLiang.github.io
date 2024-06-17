@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Porosity | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/porosity/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/porosity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Porosity</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Porosity</title>
+      <link>https://MinfeiLiang.github.io/tags/porosity/</link>
+    </image>
+    
+    <item>
+      <title>Young&#39;s modulus and creep of calcium-silicate-hydrate compacts measured by microindentation</title>
+      <link>https://MinfeiLiang.github.io/publication/hu-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hu-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of microstructure on the performance of composite cements: Why higher total porosity can result in higher strength</title>
+      <link>https://MinfeiLiang.github.io/publication/zajac-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zajac-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of supplementary cementitious materials on autogenous shrinkage of ultra-high performance concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/ghafari-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ghafari-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-term deformations and cracking risk of concrete with high content of mineral additions</title>
+      <link>https://MinfeiLiang.github.io/publication/darquennes-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/darquennes-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study on some factors affecting the results in the use of MIP method in concrete research</title>
+      <link>https://MinfeiLiang.github.io/publication/kumar-2003/</link>
+      <pubDate>Sat, 01 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kumar-2003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

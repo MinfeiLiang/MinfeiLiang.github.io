@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compressive Strength | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/compressive-strength/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/compressive-strength/index.xml" rel="self" type="application/rss+xml" />
+    <description>Compressive Strength</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Compressive Strength</title>
+      <link>https://MinfeiLiang.github.io/tags/compressive-strength/</link>
+    </image>
+    
+    <item>
+      <title>Predicting concrete compressive strength using hybrid ensembling of surrogate machine learning models</title>
+      <link>https://MinfeiLiang.github.io/publication/asteris-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/asteris-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning to predict properties of fresh and hardened alkali-activated concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/gomaa-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gomaa-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting ultra-high-performance concrete compressive strength using tabular generative adversarial networks</title>
+      <link>https://MinfeiLiang.github.io/publication/marani-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/marani-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RETRACTED: Experimental investigation and comparative machine-learning prediction of strength behavior of optimized recycled rubber concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/jalal-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/jalal-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Setting time and compressive strength prediction model of concrete by nondestructive ultrasonic pulse velocity testing at early age</title>
+      <link>https://MinfeiLiang.github.io/publication/lee-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lee-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the compressive strength of green fly ash based geopolymer concrete using experiment and machine learning approaches</title>
+      <link>https://MinfeiLiang.github.io/publication/nguyen-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/nguyen-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micropillar compression investigation of size effect on microscale strength and failure mechanism of Calcium-Silicate-Hydrates (C-S-H) in cement paste</title>
+      <link>https://MinfeiLiang.github.io/publication/shahrin-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/shahrin-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and experimental study of a ternary blended cement containing high volume steel slag and blast-furnace slag based on Fuller distribution model</title>
+      <link>https://MinfeiLiang.github.io/publication/zhao-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhao-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilization of high volume of industrial slag in self compacting concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/sethy-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/sethy-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive database for concrete creep and shrinkage: Analysis and recommendations for testing and recording</title>
+      <link>https://MinfeiLiang.github.io/publication/hubler-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hubler-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to monitor the modulus of elasticity of concrete, automatically since the earliest age?</title>
+      <link>https://MinfeiLiang.github.io/publication/boulay-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/boulay-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanical properties of self consolidating concrete blended with high volumes of fly ash and slag</title>
+      <link>https://MinfeiLiang.github.io/publication/kuder-2012/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kuder-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of high volume of fly ash and slag on the compressive strength of self-consolidating concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/hannesson-2012/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hannesson-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of granulated blast furnace slag and superplasticizer type on the fresh properties and compressive strength of self-compacting concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/boukendakdji-2012/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/boukendakdji-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the compressive strength of ground granulated blast furnace slag concrete using artificial neural network</title>
+      <link>https://MinfeiLiang.github.io/publication/bilim-2009/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bilim-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strength development of mortars containing ground granulated blast-furnace slag: Effect of curing temperature and determination of apparent activation energies</title>
+      <link>https://MinfeiLiang.github.io/publication/barnett-2006/</link>
+      <pubDate>Wed, 01 Mar 2006 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/barnett-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental relationship between splitting tensile strength and compressive strength of GFRC and PFRC</title>
+      <link>https://MinfeiLiang.github.io/publication/choi-2005/</link>
+      <pubDate>Mon, 01 Aug 2005 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/choi-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of splitting tensile strength of high-performance concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/zain-2002/</link>
+      <pubDate>Thu, 01 Aug 2002 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zain-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

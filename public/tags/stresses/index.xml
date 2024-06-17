@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stresses | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/stresses/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/stresses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stresses</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 1985 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Stresses</title>
+      <link>https://MinfeiLiang.github.io/tags/stresses/</link>
+    </image>
+    
+    <item>
+      <title>Log Double Power Law for Concrete Creep</title>
+      <link>https://MinfeiLiang.github.io/publication/balant-1985/</link>
+      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/balant-1985/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

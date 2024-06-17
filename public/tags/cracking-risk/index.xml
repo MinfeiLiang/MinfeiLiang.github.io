@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cracking Risk | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/cracking-risk/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/cracking-risk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cracking Risk</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Cracking Risk</title>
+      <link>https://MinfeiLiang.github.io/tags/cracking-risk/</link>
+    </image>
+    
+    <item>
+      <title>Recommendations of RILEM TC 287-CCS: thermo-chemo-mechanical modelling of massive concrete structures towards cracking risk assessment</title>
+      <link>https://MinfeiLiang.github.io/publication/azenha-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/azenha-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of behaviour and cracking susceptibility of cementitious systems under restrained conditions through ring tests: A critical review</title>
+      <link>https://MinfeiLiang.github.io/publication/kanavaris-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kanavaris-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deformation and cracking modeling for early-age sidewall concrete based on the multi-field coupling mechanism</title>
+      <link>https://MinfeiLiang.github.io/publication/li-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/li-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early age deformations of concrete with high content of mineral additions</title>
+      <link>https://MinfeiLiang.github.io/publication/darquennes-2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/darquennes-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

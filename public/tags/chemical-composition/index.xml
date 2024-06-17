@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chemical Composition | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/chemical-composition/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/chemical-composition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chemical Composition</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Chemical Composition</title>
+      <link>https://MinfeiLiang.github.io/tags/chemical-composition/</link>
+    </image>
+    
+    <item>
+      <title>The effect of slag chemistry on the reactivity of synthetic and commercial slags</title>
+      <link>https://MinfeiLiang.github.io/publication/zhang-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhang-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanical properties of self consolidating concrete blended with high volumes of fly ash and slag</title>
+      <link>https://MinfeiLiang.github.io/publication/kuder-2012/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kuder-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of high volume of fly ash and slag on the compressive strength of self-consolidating concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/hannesson-2012/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hannesson-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GFRC | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/gfrc/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/gfrc/index.xml" rel="self" type="application/rss+xml" />
+    <description>GFRC</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>GFRC</title>
+      <link>https://MinfeiLiang.github.io/tags/gfrc/</link>
+    </image>
+    
+    <item>
+      <title>Experimental relationship between splitting tensile strength and compressive strength of GFRC and PFRC</title>
+      <link>https://MinfeiLiang.github.io/publication/choi-2005/</link>
+      <pubDate>Mon, 01 Aug 2005 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/choi-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

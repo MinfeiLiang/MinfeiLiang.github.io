@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instrumented Indentation | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/instrumented-indentation/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/instrumented-indentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Instrumented Indentation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Instrumented Indentation</title>
+      <link>https://MinfeiLiang.github.io/tags/instrumented-indentation/</link>
+    </image>
+    
+    <item>
+      <title>Multiscale modeling elastic properties of cement-based materials considering imperfect interface effect</title>
+      <link>https://MinfeiLiang.github.io/publication/liang-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/liang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of individual phases on multiscale modeling mechanical properties of hardened cement paste</title>
+      <link>https://MinfeiLiang.github.io/publication/gao-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gao-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

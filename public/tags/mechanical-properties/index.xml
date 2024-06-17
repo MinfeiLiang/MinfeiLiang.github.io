@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mechanical Properties | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/mechanical-properties/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/mechanical-properties/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mechanical Properties</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Mechanical Properties</title>
+      <link>https://MinfeiLiang.github.io/tags/mechanical-properties/</link>
+    </image>
+    
+    <item>
+      <title>A two-stage model for the prediction of mechanical properties of cement paste</title>
+      <link>https://MinfeiLiang.github.io/publication/krishnya-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/krishnya-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanical properties and autogenous deformation behavior of early-age concrete containing pre-wetted ceramsite and CaO-based expansive agent</title>
+      <link>https://MinfeiLiang.github.io/publication/zhao-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhao-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of composite microstructure stress-strain curves using convolutional neural networks</title>
+      <link>https://MinfeiLiang.github.io/publication/yang-2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/yang-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental investigation on the fundamental behavior of concrete creep</title>
+      <link>https://MinfeiLiang.github.io/publication/su-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/su-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early-age hydration and mechanical properties of high volume slag and fly ash concrete at different curing temperatures</title>
+      <link>https://MinfeiLiang.github.io/publication/xu-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/xu-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical nanoindentation technique in application to hardened cement pastes: Influences of material microstructure and analysis method</title>
+      <link>https://MinfeiLiang.github.io/publication/hu-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hu-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A review on the mechanical properties of cement-based materials measured by nanoindentation</title>
+      <link>https://MinfeiLiang.github.io/publication/hu-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hu-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to assess the hydration of slag cement concretes?</title>
+      <link>https://MinfeiLiang.github.io/publication/darquennes-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/darquennes-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early development of properties in a cement paste: A numerical and experimental study</title>
+      <link>https://MinfeiLiang.github.io/publication/princigallo-2003/</link>
+      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/princigallo-2003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

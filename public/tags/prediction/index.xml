@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prediction | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/prediction/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/prediction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prediction</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Prediction</title>
+      <link>https://MinfeiLiang.github.io/tags/prediction/</link>
+    </image>
+    
+    <item>
+      <title>Interpretable Ensemble-Machine-Learning models for predicting creep behavior of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/liang-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/liang-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental investigation and prediction of elastic modulus of ultra-high performance concrete (UHPC) based on its composition</title>
+      <link>https://MinfeiLiang.github.io/publication/ouyang-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ouyang-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial neural network for predicting creep of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/bal-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bal-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial neural network for predicting drying shrinkage of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/bal-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bal-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the compressive strength of ground granulated blast furnace slag concrete using artificial neural network</title>
+      <link>https://MinfeiLiang.github.io/publication/bilim-2009/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bilim-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

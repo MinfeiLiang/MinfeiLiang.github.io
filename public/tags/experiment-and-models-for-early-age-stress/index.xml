@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experiment and Models for Early-Age Stress | MinfeiLiang</title>
-    <link>http://localhost:1313/tags/experiment-and-models-for-early-age-stress/</link>
-      <atom:link href="http://localhost:1313/tags/experiment-and-models-for-early-age-stress/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://MinfeiLiang.github.io/tags/experiment-and-models-for-early-age-stress/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/experiment-and-models-for-early-age-stress/index.xml" rel="self" type="application/rss+xml" />
     <description>Experiment and Models for Early-Age Stress</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Experiment and Models for Early-Age Stress</title>
-      <link>http://localhost:1313/tags/experiment-and-models-for-early-age-stress/</link>
+      <link>https://MinfeiLiang.github.io/tags/experiment-and-models-for-early-age-stress/</link>
     </image>
     
     <item>
       <title>A Mini-TSTM for Early-Age Stress Evolution</title>
-      <link>http://localhost:1313/publication/a-mini-tstm/</link>
+      <link>https://MinfeiLiang.github.io/publication/a-mini-tstm/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/a-mini-tstm/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/a-mini-tstm/</guid>
       <description>&lt;p&gt;Typical TSTM testing principle:
 
 
@@ -40,7 +40,7 @@
                /publication/a-mini-tstm/featured2_hub57d23601e2b53aa413ce1c409404c86_182571_08113a1c7ec65e8b398b0007f4d75fd5.webp 400w,
                /publication/a-mini-tstm/featured2_hub57d23601e2b53aa413ce1c409404c86_182571_845c1bcd3409934977ec080f0ea5a346.webp 760w,
                /publication/a-mini-tstm/featured2_hub57d23601e2b53aa413ce1c409404c86_182571_1200x1200_fit_q80_h2_lanczos.webp 1200w&#34;
-               src=&#34;http://localhost:1313/publication/a-mini-tstm/featured2_hub57d23601e2b53aa413ce1c409404c86_182571_08113a1c7ec65e8b398b0007f4d75fd5.webp&#34;
+               src=&#34;https://MinfeiLiang.github.io/publication/a-mini-tstm/featured2_hub57d23601e2b53aa413ce1c409404c86_182571_08113a1c7ec65e8b398b0007f4d75fd5.webp&#34;
                width=&#34;760&#34;
                height=&#34;492&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -66,10 +66,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image 2&#34; srcset=&#34;
-               /publication/a-mini-tstm/featured3_hud148b0e0dcad721a33be63984cd37c96_311693_c23ee6204c32a2d100828da9d4b80f2c.webp 400w,
+               /publication/a-mini-tstm/featured3_hud148b0e0dcad721a33be63984cd37c96_311693_abef7746536207f280e59fb7bb1dc578.webp 400w,
                /publication/a-mini-tstm/featured3_hud148b0e0dcad721a33be63984cd37c96_311693_080925bf2220e1eeeff76f6b1d2778db.webp 760w,
                /publication/a-mini-tstm/featured3_hud148b0e0dcad721a33be63984cd37c96_311693_1200x1200_fit_q80_h2_lanczos.webp 1200w&#34;
-               src=&#34;http://localhost:1313/publication/a-mini-tstm/featured3_hud148b0e0dcad721a33be63984cd37c96_311693_c23ee6204c32a2d100828da9d4b80f2c.webp&#34;
+               src=&#34;https://MinfeiLiang.github.io/publication/a-mini-tstm/featured3_hud148b0e0dcad721a33be63984cd37c96_311693_abef7746536207f280e59fb7bb1dc578.webp&#34;
                width=&#34;760&#34;
                height=&#34;515&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

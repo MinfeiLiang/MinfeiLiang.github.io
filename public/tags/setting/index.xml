@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setting | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/setting/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/setting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Setting</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Setting</title>
+      <link>https://MinfeiLiang.github.io/tags/setting/</link>
+    </image>
+    
+    <item>
+      <title>Prediction of the basic creep of concrete with high substitution of Portland cement by mineral additions at early age</title>
+      <link>https://MinfeiLiang.github.io/publication/delsaute-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/delsaute-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Setting time and compressive strength prediction model of concrete by nondestructive ultrasonic pulse velocity testing at early age</title>
+      <link>https://MinfeiLiang.github.io/publication/lee-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lee-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early age deformations of concrete with high content of mineral additions</title>
+      <link>https://MinfeiLiang.github.io/publication/darquennes-2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/darquennes-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early-age acoustic emission measurements in hydrating cement paste: Evidence for cavitation during solidification due to self-desiccation</title>
+      <link>https://MinfeiLiang.github.io/publication/lura-2009/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lura-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

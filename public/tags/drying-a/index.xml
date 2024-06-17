@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drying (A) | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/drying-a/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/drying-a/index.xml" rel="self" type="application/rss+xml" />
+    <description>Drying (A)</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Drying (A)</title>
+      <link>https://MinfeiLiang.github.io/tags/drying-a/</link>
+    </image>
+    
+    <item>
+      <title>Creep behavior of C-S-H under different drying relative humidities: Interpretation of microindentation tests and sorption measurements by multi-scale analysis</title>
+      <link>https://MinfeiLiang.github.io/publication/suwanmaneechot-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/suwanmaneechot-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A viscoelastic poromechanical model for shrinkage and creep of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/aili-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/aili-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arrhenius | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/arrhenius/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/arrhenius/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arrhenius</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Arrhenius</title>
+      <link>https://MinfeiLiang.github.io/tags/arrhenius/</link>
+    </image>
+    
+    <item>
+      <title>A numerical recipe for modelling hydration and heat flow in hardening concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/martinelli-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/martinelli-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separation of thermal and autogenous deformation at varying temperatures using optical fiber sensors</title>
+      <link>https://MinfeiLiang.github.io/publication/viviani-2007/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/viviani-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

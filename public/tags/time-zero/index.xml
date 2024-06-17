@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>“Time-Zero” | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/time-zero/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/time-zero/index.xml" rel="self" type="application/rss+xml" />
+    <description>“Time-Zero”</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>“Time-Zero”</title>
+      <link>https://MinfeiLiang.github.io/tags/time-zero/</link>
+    </image>
+    
+    <item>
+      <title>Accurate determination of the “time-zero” of autogenous shrinkage in alkali-activated fly ash/slag system</title>
+      <link>https://MinfeiLiang.github.io/publication/ma-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ma-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining the “time-zero” of autogenous shrinkage in high/ultra-high performance cement pastes</title>
+      <link>https://MinfeiLiang.github.io/publication/huang-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/huang-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

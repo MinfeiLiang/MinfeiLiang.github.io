@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ultrasonic Pulse Velocity | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/ultrasonic-pulse-velocity/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/ultrasonic-pulse-velocity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ultrasonic Pulse Velocity</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Ultrasonic Pulse Velocity</title>
+      <link>https://MinfeiLiang.github.io/tags/ultrasonic-pulse-velocity/</link>
+    </image>
+    
+    <item>
+      <title>Setting time and compressive strength prediction model of concrete by nondestructive ultrasonic pulse velocity testing at early age</title>
+      <link>https://MinfeiLiang.github.io/publication/lee-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lee-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring and modelling the early age and hardening behaviour of eco-concrete through continuous non-destructive measurements: Part I. Hydration and apparent activation energy</title>
+      <link>https://MinfeiLiang.github.io/publication/carette-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/carette-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring the setting process of mortars by ultrasonic P and S-wave transmission velocity measurement</title>
+      <link>https://MinfeiLiang.github.io/publication/carette-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/carette-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temperature | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/temperature/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/temperature/index.xml" rel="self" type="application/rss+xml" />
+    <description>Temperature</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Temperature</title>
+      <link>https://MinfeiLiang.github.io/tags/temperature/</link>
+    </image>
+    
+    <item>
+      <title>The cracking risk of hardening concrete exposed to realistic curing temperature regimes and restraint conditions – Experimental investigations of important parameters</title>
+      <link>https://MinfeiLiang.github.io/publication/klausen-2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/klausen-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New insights into creep characteristics of calcium silicate hydrates at molecular level</title>
+      <link>https://MinfeiLiang.github.io/publication/kai-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kai-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of curing temperature on autogenous deformation of fly ash concretes</title>
+      <link>https://MinfeiLiang.github.io/publication/klausen-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/klausen-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability of standard methods for evaluating the early-age cracking risk of thermal-shrinkage origin in concrete walls</title>
+      <link>https://MinfeiLiang.github.io/publication/klemczak-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/klemczak-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A numerical recipe for modelling hydration and heat flow in hardening concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/martinelli-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/martinelli-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strength development of mortars containing ground granulated blast-furnace slag: Effect of curing temperature and determination of apparent activation energies</title>
+      <link>https://MinfeiLiang.github.io/publication/barnett-2006/</link>
+      <pubDate>Wed, 01 Mar 2006 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/barnett-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of curing temperature and type of cement on early-age shrinkage of high-performance concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/lura-2001/</link>
+      <pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lura-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log Double Power Law for Concrete Creep</title>
+      <link>https://MinfeiLiang.github.io/publication/balant-1985/</link>
+      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/balant-1985/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basic and Drying Creep | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/basic-and-drying-creep/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/basic-and-drying-creep/index.xml" rel="self" type="application/rss+xml" />
+    <description>Basic and Drying Creep</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Basic and Drying Creep</title>
+      <link>https://MinfeiLiang.github.io/tags/basic-and-drying-creep/</link>
+    </image>
+    
+    <item>
+      <title>Comprehensive study of concrete creep, shrinkage, and water content evolution under sealed and drying conditions</title>
+      <link>https://MinfeiLiang.github.io/publication/theiner-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/theiner-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

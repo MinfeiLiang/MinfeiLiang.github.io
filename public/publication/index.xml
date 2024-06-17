@@ -2,21 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | MinfeiLiang</title>
-    <link>http://localhost:1313/publication/</link>
-      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://MinfeiLiang.github.io/publication/</link>
+      <atom:link href="https://MinfeiLiang.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>http://localhost:1313/publication/</link>
+      <link>https://MinfeiLiang.github.io/publication/</link>
     </image>
     
     <item>
+      <title>Tensile behavior of rebar-reinforced coarse aggregate ultra-high performance concrete (R-CA-UHPC) members: Experiments and restrained shrinkage creep effect</title>
+      <link>https://MinfeiLiang.github.io/publication/shi-2024/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/shi-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inverse stochastic microstructure design</title>
+      <link>https://MinfeiLiang.github.io/publication/generale-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/generale-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two scale models for fracture behaviours of cementitious materials subjected to static and cyclic loadings</title>
+      <link>https://MinfeiLiang.github.io/publication/gan-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gan-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiscale computational modelling of nano-silica reinforced cement paste: Bridging microstructure and mechanical performance</title>
+      <link>https://MinfeiLiang.github.io/publication/nithurshan-2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/nithurshan-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peanut shaped auxetic cementitious cellular composite (ACCC)</title>
+      <link>https://MinfeiLiang.github.io/publication/xie-2024/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/xie-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative adversarial network (GAN) enabled Statistically equivalent virtual microstructures (SEVM) for modeling cold spray formed bimodal polycrystals</title>
+      <link>https://MinfeiLiang.github.io/publication/murgas-2024/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/murgas-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microstructure reconstruction of 2D/3D random materials via diffusion-based deep generative models</title>
+      <link>https://MinfeiLiang.github.io/publication/lyu-2024/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lyu-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic enhancement of vascular configuration for self-healing concrete through reinforcement learning approach</title>
+      <link>https://MinfeiLiang.github.io/publication/wan-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wan-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep residual learning for acoustic emission source localization in A steel-concrete composite slab</title>
+      <link>https://MinfeiLiang.github.io/publication/zhou-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhou-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of temperature on autogenous deformation and early-age stress evolution in cement pastes with low water to cement ratio</title>
+      <link>https://MinfeiLiang.github.io/publication/liang-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/liang-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Mini-TSTM for Early-Age Stress Evolution</title>
-      <link>http://localhost:1313/publication/a-mini-tstm/</link>
+      <link>https://MinfeiLiang.github.io/publication/a-mini-tstm/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/a-mini-tstm/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/a-mini-tstm/</guid>
       <description>&lt;p&gt;Typical TSTM testing principle:
 
 
@@ -40,7 +120,7 @@
                /publication/a-mini-tstm/featured2_hub57d23601e2b53aa413ce1c409404c86_182571_08113a1c7ec65e8b398b0007f4d75fd5.webp 400w,
                /publication/a-mini-tstm/featured2_hub57d23601e2b53aa413ce1c409404c86_182571_845c1bcd3409934977ec080f0ea5a346.webp 760w,
                /publication/a-mini-tstm/featured2_hub57d23601e2b53aa413ce1c409404c86_182571_1200x1200_fit_q80_h2_lanczos.webp 1200w&#34;
-               src=&#34;http://localhost:1313/publication/a-mini-tstm/featured2_hub57d23601e2b53aa413ce1c409404c86_182571_08113a1c7ec65e8b398b0007f4d75fd5.webp&#34;
+               src=&#34;https://MinfeiLiang.github.io/publication/a-mini-tstm/featured2_hub57d23601e2b53aa413ce1c409404c86_182571_08113a1c7ec65e8b398b0007f4d75fd5.webp&#34;
                width=&#34;760&#34;
                height=&#34;492&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -66,10 +146,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image 2&#34; srcset=&#34;
-               /publication/a-mini-tstm/featured3_hud148b0e0dcad721a33be63984cd37c96_311693_c23ee6204c32a2d100828da9d4b80f2c.webp 400w,
+               /publication/a-mini-tstm/featured3_hud148b0e0dcad721a33be63984cd37c96_311693_abef7746536207f280e59fb7bb1dc578.webp 400w,
                /publication/a-mini-tstm/featured3_hud148b0e0dcad721a33be63984cd37c96_311693_080925bf2220e1eeeff76f6b1d2778db.webp 760w,
                /publication/a-mini-tstm/featured3_hud148b0e0dcad721a33be63984cd37c96_311693_1200x1200_fit_q80_h2_lanczos.webp 1200w&#34;
-               src=&#34;http://localhost:1313/publication/a-mini-tstm/featured3_hud148b0e0dcad721a33be63984cd37c96_311693_c23ee6204c32a2d100828da9d4b80f2c.webp&#34;
+               src=&#34;https://MinfeiLiang.github.io/publication/a-mini-tstm/featured3_hud148b0e0dcad721a33be63984cd37c96_311693_abef7746536207f280e59fb7bb1dc578.webp&#34;
                width=&#34;760&#34;
                height=&#34;515&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -79,10 +159,82 @@
     </item>
     
     <item>
+      <title>Predictive microstructure image generation using denoising diffusion probabilistic models</title>
+      <link>https://MinfeiLiang.github.io/publication/azqadan-2023/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/azqadan-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of eigen-stresses on apparent strength and stiffness of normal, high strength, and ultra-high performance fibre reinforced concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/awasthy-2023/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/awasthy-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unifying the design space and optimizing linear and nonlinear truss metamaterials by generative modeling</title>
+      <link>https://MinfeiLiang.github.io/publication/zheng-2023/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zheng-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lattice modelling of early-age creep of 3D printed segments with the consideration of stress history</title>
+      <link>https://MinfeiLiang.github.io/publication/chang-2023/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/chang-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultra-thin Strain Hardening Cementitious Composite (SHCC) layer in reinforced concrete cover zone for crack width control</title>
+      <link>https://MinfeiLiang.github.io/publication/he-2023/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/he-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion Model as Representation Learner</title>
+      <link>https://MinfeiLiang.github.io/publication/yang-2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/yang-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can superabsorbent polymers be used as rheology modifiers for cementitious materials in the context of 3D concrete printing?</title>
+      <link>https://MinfeiLiang.github.io/publication/chen-2023/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/chen-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The practical application of a self-developed temperature stress testing machine in development of expansive concrete blended with calcium sulfoaluminate additives</title>
+      <link>https://MinfeiLiang.github.io/publication/ou-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ou-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficiently Assessing the Early-Age Cracking Risk of Cementitious Materials with A Mini Temperature Stress Testing Machine</title>
+      <link>https://MinfeiLiang.github.io/publication/liang-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/liang-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Active Learning for Stress Evolution Prediction</title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
+      <link>https://MinfeiLiang.github.io/publication/conference-paper/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/conference-paper/</guid>
       <description>&lt;p&gt;A themo-chemo-mechanical model framework:
 
 
@@ -106,7 +258,7 @@
                /publication/conference-paper/featured2_hu90b6bf460b37d1882546bfbd75438ad8_208650_528946d53c64c0a3c2bd4760303a9760.webp 400w,
                /publication/conference-paper/featured2_hu90b6bf460b37d1882546bfbd75438ad8_208650_8b869708359f61788dea069f9f2cb2e6.webp 760w,
                /publication/conference-paper/featured2_hu90b6bf460b37d1882546bfbd75438ad8_208650_1200x1200_fit_q80_h2_lanczos.webp 1200w&#34;
-               src=&#34;http://localhost:1313/publication/conference-paper/featured2_hu90b6bf460b37d1882546bfbd75438ad8_208650_528946d53c64c0a3c2bd4760303a9760.webp&#34;
+               src=&#34;https://MinfeiLiang.github.io/publication/conference-paper/featured2_hu90b6bf460b37d1882546bfbd75438ad8_208650_528946d53c64c0a3c2bd4760303a9760.webp&#34;
                width=&#34;760&#34;
                height=&#34;399&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -135,13 +287,3821 @@
                /publication/conference-paper/featured3_hue1ee390b96b2a6609c4535a7e22f18d9_277760_278e1ca14b2c6e7e1dd2fd59699bfacc.webp 400w,
                /publication/conference-paper/featured3_hue1ee390b96b2a6609c4535a7e22f18d9_277760_5462df295d731273f9d2f82096a7334d.webp 760w,
                /publication/conference-paper/featured3_hue1ee390b96b2a6609c4535a7e22f18d9_277760_1200x1200_fit_q80_h2_lanczos.webp 1200w&#34;
-               src=&#34;http://localhost:1313/publication/conference-paper/featured3_hue1ee390b96b2a6609c4535a7e22f18d9_277760_278e1ca14b2c6e7e1dd2fd59699bfacc.webp&#34;
+               src=&#34;https://MinfeiLiang.github.io/publication/conference-paper/featured3_hue1ee390b96b2a6609c4535a7e22f18d9_277760_278e1ca14b2c6e7e1dd2fd59699bfacc.webp&#34;
                width=&#34;760&#34;
                height=&#34;478&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>3D concrete printing: Lattice modeling of structural failure considering damage and deformed geometry</title>
+      <link>https://MinfeiLiang.github.io/publication/chang-2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/chang-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexural strength and fatigue properties of interfacial transition zone at the microscale</title>
+      <link>https://MinfeiLiang.github.io/publication/gan-2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gan-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating elastic and creep deformations in modelling the three-dimensional autogenous shrinkage of cement paste</title>
+      <link>https://MinfeiLiang.github.io/publication/gao-2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gao-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of cellulose fibre in ultra-high-performance concrete to mitigate autogenous shrinkage</title>
+      <link>https://MinfeiLiang.github.io/publication/feng-2022/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/feng-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitigating early age cracking in 3D printed concrete using fibres, superabsorbent polymers, shrinkage reducing admixtures, B-CSA cement and curing measures</title>
+      <link>https://MinfeiLiang.github.io/publication/moelich-2022/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/moelich-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of sulphate source on the hydration of ternary pastes of Portland cement, calcium aluminate cement and calcium sulphate</title>
+      <link>https://MinfeiLiang.github.io/publication/qoku-2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/qoku-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Ca/Si and Al/Si on micromechanical properties of C(-A)-S-H</title>
+      <link>https://MinfeiLiang.github.io/publication/wang-2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wang-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The cracking risk of hardening concrete exposed to realistic curing temperature regimes and restraint conditions – Experimental investigations of important parameters</title>
+      <link>https://MinfeiLiang.github.io/publication/klausen-2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/klausen-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of early-age thermal cracking resistance of high w/b, high volume fly ash (HVFA) concrete using temperature stress testing machine</title>
+      <link>https://MinfeiLiang.github.io/publication/xin-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/xin-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study on early-age tensile properties of high volume fly ash concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/gu-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gu-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of slag chemistry on the reactivity of synthetic and commercial slags</title>
+      <link>https://MinfeiLiang.github.io/publication/zhang-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhang-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clarifying the deformation restriction of unhydrated phase in cement paste to its autogenous shrinkage</title>
+      <link>https://MinfeiLiang.github.io/publication/guo-2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/guo-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using machine learning techniques for predicting autogenous shrinkage of concrete incorporating superabsorbent polymers and supplementary cementitious materials</title>
+      <link>https://MinfeiLiang.github.io/publication/hilloulin-2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hilloulin-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A discrete numerical model for the effects of crack healing on the behaviour of ordinary plain concrete: Implementation, calibration, and validation</title>
+      <link>https://MinfeiLiang.github.io/publication/cibelli-2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/cibelli-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the zero-stress temperature in high performance concrete at early age</title>
+      <link>https://MinfeiLiang.github.io/publication/dabarera-2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/dabarera-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical simulation of risk mitigation strategies for early-age thermal cracking and DEF in concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/chiniforush-2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/chiniforush-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active learning structural model updating of a multisensory system based on Kriging method and Bayesian inference</title>
+      <link>https://MinfeiLiang.github.io/publication/yuan-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/yuan-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of reinforcement on autogenous deformation of early-age concrete containing CaO-based expansion agent</title>
+      <link>https://MinfeiLiang.github.io/publication/zhao-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhao-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strength degradation of seawater-mixed alite pastes: an explanation from statistical nanoindentation perspective</title>
+      <link>https://MinfeiLiang.github.io/publication/sun-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/sun-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A two-scale method to rapidly characterize the logarithmic basic creep of concrete by coupling microindentation and uniaxial compression creep test</title>
+      <link>https://MinfeiLiang.github.io/publication/baronet-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/baronet-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active learning for structural reliability: Survey, general framework and benchmark</title>
+      <link>https://MinfeiLiang.github.io/publication/moustapha-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/moustapha-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autogenous and total shrinkage of limestone calcined clay cement (LC3) concretes</title>
+      <link>https://MinfeiLiang.github.io/publication/nguyen-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/nguyen-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of phases on the creep properties of cement paste based on indentation test and homogenization scheme</title>
+      <link>https://MinfeiLiang.github.io/publication/li-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/li-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable Ensemble-Machine-Learning models for predicting creep behavior of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/liang-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/liang-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A review of autogenous shrinkage models of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/tang-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/tang-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of thermal cracking potential evaluation criteria for mass concrete structures</title>
+      <link>https://MinfeiLiang.github.io/publication/xin-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/xin-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction, optimization, and design of heterogeneous materials and media: Basic principles, computational algorithms, and applications</title>
+      <link>https://MinfeiLiang.github.io/publication/sahimi-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/sahimi-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient computational framework for generating realistic 3D mesoscale concrete models using micro X-ray computed tomography images and dynamic physics engine</title>
+      <link>https://MinfeiLiang.github.io/publication/huang-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/huang-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early age autogenous shrinkage cracking risk of an ultra-high performance concrete (UHPC) wall: Modelling and experimental results</title>
+      <link>https://MinfeiLiang.github.io/publication/kheir-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kheir-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of shrinkage-mitigating materials on performance of fiber-reinforced concrete – An overview</title>
+      <link>https://MinfeiLiang.github.io/publication/aghaee-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/aghaee-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of calculating methods and applications of different concrete maturity</title>
+      <link>https://MinfeiLiang.github.io/publication/geng-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/geng-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compressive stress-strain behavior of seawater coral aggregate concrete incorporating eco-efficient alkali-activated slag materials</title>
+      <link>https://MinfeiLiang.github.io/publication/zhang-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhang-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommendations of RILEM TC 287-CCS: thermo-chemo-mechanical modelling of massive concrete structures towards cracking risk assessment</title>
+      <link>https://MinfeiLiang.github.io/publication/azenha-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/azenha-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering analysis of grid nanoindentation data for cementitious materials</title>
+      <link>https://MinfeiLiang.github.io/publication/chen-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/chen-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of coarse aggregate size on non-uniform stress/strain and drying-induced microcracking in concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/gao-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gao-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Establishing process-structure linkages using Generative Adversarial Networks</title>
+      <link>https://MinfeiLiang.github.io/publication/safiuddin-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/safiuddin-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting concrete compressive strength using hybrid ensembling of surrogate machine learning models</title>
+      <link>https://MinfeiLiang.github.io/publication/asteris-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/asteris-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A critical review on drying shrinkage mitigation strategies in cement-based materials</title>
+      <link>https://MinfeiLiang.github.io/publication/tran-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/tran-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental evaluation and modelling of early-age basic tensile creep in high-performance concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/dabarera-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/dabarera-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restraining effect of aggregates on autogenous shrinkage in cement mortar and concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/lu-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lu-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autogenous shrinkage and drying shrinkage of recycled aggregate concrete: A review</title>
+      <link>https://MinfeiLiang.github.io/publication/mao-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/mao-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concrete thermal failure criteria, test method, and mechanism: A review</title>
+      <link>https://MinfeiLiang.github.io/publication/zhu-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhu-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micromechanical analysis of interfacial transition zone in alkali-activated fly ash-slag concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/fang-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/fang-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling of microstructural effects on the creep of hardened cement paste using an experimentally informed lattice model</title>
+      <link>https://MinfeiLiang.github.io/publication/gan-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gan-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the early-stage creep dynamics of gels from their static structure by machine learning</title>
+      <link>https://MinfeiLiang.github.io/publication/liu-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/liu-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active learning method for risk assessment of distributed infrastructure systems</title>
+      <link>https://MinfeiLiang.github.io/publication/tomar-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/tomar-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploration of optimal microstructure and mechanical properties in continuous microstructure space using a variational autoencoder</title>
+      <link>https://MinfeiLiang.github.io/publication/kim-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kim-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New insights into creep characteristics of calcium silicate hydrates at molecular level</title>
+      <link>https://MinfeiLiang.github.io/publication/kai-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kai-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shrinkage design model of concrete incorporating wet packing density</title>
+      <link>https://MinfeiLiang.github.io/publication/lai-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lai-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive approaches in metamodel-based reliability analysis: A review</title>
+      <link>https://MinfeiLiang.github.io/publication/teixeira-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/teixeira-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanoindentation on micromechanical properties and microstructure of geopolymer with nano-SiO2 and nano-TiO2</title>
+      <link>https://MinfeiLiang.github.io/publication/luo-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/luo-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Durability and shrinkage performance of concrete made with coarse multi-recycled concrete aggregates</title>
+      <link>https://MinfeiLiang.github.io/publication/silva-2021/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/silva-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the outlier detection method in concrete mix design by combining the isolation forest and local outlier factor</title>
+      <link>https://MinfeiLiang.github.io/publication/alsini-2021/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/alsini-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation of the Nonlinear Creep of Concrete with Different Initial Defect Rates under Continuous Compression with Acoustic Emission Technology</title>
+      <link>https://MinfeiLiang.github.io/publication/li-2021/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/li-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Use of Machine Learning Models for Prediction of Compressive Strength of Concrete: Influence of Dimensionality Reduction on the Model Performance</title>
+      <link>https://MinfeiLiang.github.io/publication/wan-2021/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wan-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plastic shrinkage of mortars cured with a paraffin-based compound – Bimodal neutron/X-ray tomography study</title>
+      <link>https://MinfeiLiang.github.io/publication/wyrzykowski-2021/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wyrzykowski-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected machine learning approaches for predicting the interfacial bond strength between FRPs and concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/su-2021/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/su-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A two-stage model for the prediction of mechanical properties of cement paste</title>
+      <link>https://MinfeiLiang.github.io/publication/krishnya-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/krishnya-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basic creep and fracture response of fine recycled aggregate concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/akono-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/akono-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compressive strength development and durability properties of high volume slag and slag-fly ash blended concretes containing nano-CaCO3</title>
+      <link>https://MinfeiLiang.github.io/publication/hosan-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hosan-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Considering the effect of the randomness of concrete strength and relative humidity on concrete creep</title>
+      <link>https://MinfeiLiang.github.io/publication/zheng-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zheng-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient machine learning models for prediction of concrete strengths</title>
+      <link>https://MinfeiLiang.github.io/publication/nguyen-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/nguyen-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of triethanolamine on mechanical strength and hydration performance of blended cement containing fly ash, limestone and slag</title>
+      <link>https://MinfeiLiang.github.io/publication/he-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/he-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning to predict properties of fresh and hardened alkali-activated concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/gomaa-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gomaa-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning-based prediction for compressive and flexural strengths of steel fiber-reinforced concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/kang-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kang-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanical properties and autogenous deformation behavior of early-age concrete containing pre-wetted ceramsite and CaO-based expansive agent</title>
+      <link>https://MinfeiLiang.github.io/publication/zhao-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhao-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the effective load during nanoindentation creep testing with continuous stiffness measurement (CSM)</title>
+      <link>https://MinfeiLiang.github.io/publication/phani-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/phani-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of the basic creep of concrete with high substitution of Portland cement by mineral additions at early age</title>
+      <link>https://MinfeiLiang.github.io/publication/delsaute-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/delsaute-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of shrinkage reducing admixtures on drying shrinkage, autogenous deformation, and early age stress development of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/klausen-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/klausen-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental investigation and prediction of elastic modulus of ultra-high performance concrete (UHPC) based on its composition</title>
+      <link>https://MinfeiLiang.github.io/publication/ouyang-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ouyang-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning framework for predicting failure mode and shear capacity of ultra high performance concrete beams</title>
+      <link>https://MinfeiLiang.github.io/publication/solhmirzaei-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/solhmirzaei-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling of autogenous shrinkage of hardening cement paste</title>
+      <link>https://MinfeiLiang.github.io/publication/lu-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lu-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification and quantification of cracks in concrete structures using deep learning image-based techniques</title>
+      <link>https://MinfeiLiang.github.io/publication/flah-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/flah-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a micro-mechanical model for the determination of damage properties of cement pastes</title>
+      <link>https://MinfeiLiang.github.io/publication/rhardane-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/rhardane-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of relative humidity on drying-induced damage in concrete: A comparative study of digital image correlation and lattice modelling</title>
+      <link>https://MinfeiLiang.github.io/publication/gao-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gao-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting ultra-high-performance concrete compressive strength using tabular generative adversarial networks</title>
+      <link>https://MinfeiLiang.github.io/publication/marani-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/marani-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional convolutional neural network (3D-CNN) for heterogeneous material homogenization</title>
+      <link>https://MinfeiLiang.github.io/publication/rao-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/rao-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autogenous and drying shrinkage of mortars based on Portland and calcium sulfoaluminate cements</title>
+      <link>https://MinfeiLiang.github.io/publication/sirtoli-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/sirtoli-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confronting a refined multiscale estimate for the aging basic creep of concrete with a comprehensive experimental database</title>
+      <link>https://MinfeiLiang.github.io/publication/lavergne-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lavergne-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of surface chloride concentration of marine concrete using ensemble machine learning</title>
+      <link>https://MinfeiLiang.github.io/publication/cai-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/cai-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation-based dynamic traffic assignment: Meta-heuristic solution methods with parallel computing</title>
+      <link>https://MinfeiLiang.github.io/publication/ameli-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ameli-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mechanistic model for the time-dependent autogenous shrinkage of high performance concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/huang-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/huang-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COPOD: Copula-Based Outlier Detection</title>
+      <link>https://MinfeiLiang.github.io/publication/li-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/li-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Failure mode and effects analysis of RC members based on machine-learning-based SHapley Additive exPlanations (SHAP) approach</title>
+      <link>https://MinfeiLiang.github.io/publication/mangalathu-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/mangalathu-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning-based models for the concrete breakout capacity prediction of single anchors in shear</title>
+      <link>https://MinfeiLiang.github.io/publication/olalusi-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/olalusi-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RETRACTED: Experimental investigation and comparative machine-learning prediction of strength behavior of optimized recycled rubber concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/jalal-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/jalal-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and modeling plasticity error during nanoindentation with continuous stiffness measurement</title>
+      <link>https://MinfeiLiang.github.io/publication/phani-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/phani-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning for synthetic microstructure generation in a materials-by-design framework for heterogeneous energetic materials</title>
+      <link>https://MinfeiLiang.github.io/publication/chun-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/chun-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influencing factors on micromechanical properties of calcium (alumino) silicate hydrate C-(A-)S-H under nanoindentation experiment</title>
+      <link>https://MinfeiLiang.github.io/publication/hay-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hay-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micro-cantilever testing on the short-term creep behaviour of cement paste at micro-scale</title>
+      <link>https://MinfeiLiang.github.io/publication/gan-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gan-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microstructure informed micromechanical modelling of hydrated cement paste: Techniques and challenges</title>
+      <link>https://MinfeiLiang.github.io/publication/zhang-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhang-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Setting time and compressive strength prediction model of concrete by nondestructive ultrasonic pulse velocity testing at early age</title>
+      <link>https://MinfeiLiang.github.io/publication/lee-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lee-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Young&#39;s modulus and creep of calcium-silicate-hydrate compacts measured by microindentation</title>
+      <link>https://MinfeiLiang.github.io/publication/hu-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hu-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creep and Shrinkage Modeling of Concrete Using Solidification Theory</title>
+      <link>https://MinfeiLiang.github.io/publication/hedegaard-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hedegaard-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurement and modeling concrete creep considering relative humidity effect</title>
+      <link>https://MinfeiLiang.github.io/publication/wei-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wei-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New insights into creep and creep recovery of hardened cement paste at micro scale</title>
+      <link>https://MinfeiLiang.github.io/publication/liang-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/liang-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NVAE: A Deep Hierarchical Variational Autoencoder</title>
+      <link>https://MinfeiLiang.github.io/publication/vahdat-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/vahdat-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the compressive strength of green fly ash based geopolymer concrete using experiment and machine learning approaches</title>
+      <link>https://MinfeiLiang.github.io/publication/nguyen-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/nguyen-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creep behavior of C-S-H under different drying relative humidities: Interpretation of microindentation tests and sorption measurements by multi-scale analysis</title>
+      <link>https://MinfeiLiang.github.io/publication/suwanmaneechot-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/suwanmaneechot-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denoising Diffusion Probabilistic Models</title>
+      <link>https://MinfeiLiang.github.io/publication/ho-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ho-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural health monitoring using extremely compressed data through deep learning</title>
+      <link>https://MinfeiLiang.github.io/publication/azimi-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/azimi-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An ensemble machine learning approach for prediction and optimization of modulus of elasticity of recycled aggregate concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/han-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/han-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elucidating the nano-mechanical behavior of multi-component binders for ultra-high performance concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/ford-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ford-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved MPS model for concrete creep under variable humidity and temperature</title>
+      <link>https://MinfeiLiang.github.io/publication/yu-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/yu-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of curing temperature on autogenous deformation of fly ash concretes</title>
+      <link>https://MinfeiLiang.github.io/publication/klausen-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/klausen-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of ground granulated blast furnace slag on cracking potential of high performance concrete at early age</title>
+      <link>https://MinfeiLiang.github.io/publication/shen-2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/shen-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of composite microstructure stress-strain curves using convolutional neural networks</title>
+      <link>https://MinfeiLiang.github.io/publication/yang-2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/yang-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A viscoelastic poromechanical model for shrinkage and creep of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/aili-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/aili-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental and numerical study on creep and shrinkage effects of ultra high-performance concrete beam</title>
+      <link>https://MinfeiLiang.github.io/publication/zhu-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhu-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microstructure development and autogenous shrinkage of mortars with C-S-H seeding and internal curing</title>
+      <link>https://MinfeiLiang.github.io/publication/wyrzykowski-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wyrzykowski-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SciPy 1.0: fundamental algorithms for scientific computing in Python</title>
+      <link>https://MinfeiLiang.github.io/publication/virtanen-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/virtanen-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The evolution of interfacial transition zone in alkali-activated fly ash-slag concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/fang-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/fang-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced techniques for the study of shrinkage-induced cracking of concrete with recycled aggregates at early age</title>
+      <link>https://MinfeiLiang.github.io/publication/bendimerad-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bendimerad-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image-based concrete crack detection in tunnels using deep fully convolutional networks</title>
+      <link>https://MinfeiLiang.github.io/publication/ren-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ren-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Displacement Model for Concrete Dam Safety Monitoring via Gaussian Process Regression Considering Extreme Air Temperature</title>
+      <link>https://MinfeiLiang.github.io/publication/kang-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kang-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early-Age Cracking Analysis of a HVFA Concrete Structure Based on Thermo-Hygro-Mechanical Modeling Combined with XFEM</title>
+      <link>https://MinfeiLiang.github.io/publication/cui-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/cui-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of behavior and cracking potential of early-age cementitious systems using uniaxial restraint tests: A review</title>
+      <link>https://MinfeiLiang.github.io/publication/xin-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/xin-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental and theoretical analysis on coupled effect of hydration, temperature and humidity in early-age cement-based materials</title>
+      <link>https://MinfeiLiang.github.io/publication/zhao-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhao-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite-Element Modeling of Early-Age Concrete Stress Development</title>
+      <link>https://MinfeiLiang.github.io/publication/liu-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/liu-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The analysis of cracking risk by shrinkage restraint of an alkali-activated slag mortar</title>
+      <link>https://MinfeiLiang.github.io/publication/rifai-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/rifai-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitigation techniques for autogenous shrinkage of ultra-high-performance concrete – A review</title>
+      <link>https://MinfeiLiang.github.io/publication/yang-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/yang-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-level homogenization for the prediction of the mechanical properties of ultra-high-performance concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/haile-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/haile-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A practical creep model for concrete elements under eccentric compression</title>
+      <link>https://MinfeiLiang.github.io/publication/huang-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/huang-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accurate determination of the “time-zero” of autogenous shrinkage in alkali-activated fly ash/slag system</title>
+      <link>https://MinfeiLiang.github.io/publication/ma-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ma-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autogenous shrinkage behavior of ultra-high performance concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/zhang-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhang-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micropillar compression investigation of size effect on microscale strength and failure mechanism of Calcium-Silicate-Hydrates (C-S-H) in cement paste</title>
+      <link>https://MinfeiLiang.github.io/publication/shahrin-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/shahrin-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability of standard methods for evaluating the early-age cracking risk of thermal-shrinkage origin in concrete walls</title>
+      <link>https://MinfeiLiang.github.io/publication/klemczak-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/klemczak-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-of-the-art review on plastic cracking of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/kayondo-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kayondo-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study of physical properties and microstructure of aerogel-cement mortars for improving the fire safety of high-performance concrete linings in tunnels</title>
+      <link>https://MinfeiLiang.github.io/publication/zhu-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhu-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional neural network-based wind-induced response estimation model for tall buildings</title>
+      <link>https://MinfeiLiang.github.io/publication/oh-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/oh-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early-age cracking resistance of ground granulated blast furnace slag concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/shen-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/shen-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ONIX model: a parameter-free multiscale framework for the prediction of self-desiccation in concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/pathirage-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/pathirage-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of virtual interfacial transition zone (ITZ) samples of hydrated cement paste using extended stochastic optimization</title>
+      <link>https://MinfeiLiang.github.io/publication/kim-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kim-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discussing different approaches for the time-zero as start for autogenous shrinkage in cement pastes containing superabsorbent polymers</title>
+      <link>https://MinfeiLiang.github.io/publication/filho-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/filho-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Properties of early-age concrete relevant to cracking in massive concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/maruyama-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/maruyama-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multiscale prediction model and simulation for autogenous shrinkage deformation of early-age cementitious materials</title>
+      <link>https://MinfeiLiang.github.io/publication/zhao-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhao-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel study for the estimation of crack propagation in concrete using machine learning algorithms</title>
+      <link>https://MinfeiLiang.github.io/publication/bayar-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bayar-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intrinsic viscoelasticity of C-S-H assessed from basic creep of cement pastes</title>
+      <link>https://MinfeiLiang.github.io/publication/hu-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hu-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative evaluation of elastic modulus of concrete with nanoidentation and homogenization method</title>
+      <link>https://MinfeiLiang.github.io/publication/li-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/li-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creep behavior of concrete containing glass powder</title>
+      <link>https://MinfeiLiang.github.io/publication/he-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/he-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental and numerical analysis of early age behavior in non-reinforced concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/nguyen-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/nguyen-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New relaxation function and age-adjusted effective modulus expressions for creep analysis of concrete structures</title>
+      <link>https://MinfeiLiang.github.io/publication/wang-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wang-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shrinkage and creep of high-performance concrete based on calcium sulfoaluminate cement</title>
+      <link>https://MinfeiLiang.github.io/publication/sirtoli-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/sirtoli-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of shrinkage reducing admixture in concrete: A review</title>
+      <link>https://MinfeiLiang.github.io/publication/zhan-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhan-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous concrete crack detection using deep fully convolutional neural network</title>
+      <link>https://MinfeiLiang.github.io/publication/dung-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/dung-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methodology of obtaining intrinsic creep property of concrete by flexural deflection test</title>
+      <link>https://MinfeiLiang.github.io/publication/liang-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/liang-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensile basic creep behavior of lightweight aggregate concrete reinforced with steel fiber</title>
+      <link>https://MinfeiLiang.github.io/publication/zheng-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zheng-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basic creep of cement paste at early age - the role of cement hydration</title>
+      <link>https://MinfeiLiang.github.io/publication/wyrzykowski-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wyrzykowski-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early age creep of cement paste - Governing mechanisms and role of water-A microindentation study</title>
+      <link>https://MinfeiLiang.github.io/publication/mallick-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/mallick-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early age tensile creep of high performance concrete containing mineral admixtures: Experiments and modeling</title>
+      <link>https://MinfeiLiang.github.io/publication/gu-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gu-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental approach to investigate creep-damage bilateral effects in concrete at early age</title>
+      <link>https://MinfeiLiang.github.io/publication/farah-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/farah-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the behaviour of concrete at early-ages: A multiphase description of hygro-thermo-chemo-mechanical properties</title>
+      <link>https://MinfeiLiang.github.io/publication/gasch-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gasch-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of behaviour and cracking susceptibility of cementitious systems under restrained conditions through ring tests: A critical review</title>
+      <link>https://MinfeiLiang.github.io/publication/kanavaris-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kanavaris-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can the compressive strength of concrete be estimated from knowledge of the mixture proportions?: New insights from statistical analysis and machine learning methods</title>
+      <link>https://MinfeiLiang.github.io/publication/young-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/young-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemical shrinkage and cracking resilience of metakaolin concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/markandeya-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/markandeya-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early-age evolution of strength, stiffness, and non-aging creep of concretes: Experimental characterization and correlation analysis</title>
+      <link>https://MinfeiLiang.github.io/publication/ausweger-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ausweger-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of creep on high-order shear deformable beams</title>
+      <link>https://MinfeiLiang.github.io/publication/ghabdian-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ghabdian-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardening concrete exposed to realistic curing temperature regimes and restraint conditions: Advanced testing and design methodology</title>
+      <link>https://MinfeiLiang.github.io/publication/klausen-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/klausen-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the mechanism of plastic shrinkage cracking in fresh cementitious materials</title>
+      <link>https://MinfeiLiang.github.io/publication/ghourchian-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ghourchian-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Compressive, Tensile, and Flexural Creep of Early-Age Concretes under Sealed and Drying Conditions</title>
+      <link>https://MinfeiLiang.github.io/publication/wei-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wei-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complex Effect of Concrete Composition on the Thermo-Mechanical Behaviour of Mass Concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/klemczak-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/klemczak-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drying shrinkage in alkali-activated binders – A critical review</title>
+      <link>https://MinfeiLiang.github.io/publication/mastali-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/mastali-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Size effect on splitting strength of hardened cement paste: Experimental and numerical study</title>
+      <link>https://MinfeiLiang.github.io/publication/zhang-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhang-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An overview on rheology, mechanical properties and durability of high-volume slag used as a cement replacement in paste, mortar and concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/rashad-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/rashad-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Methods for Engineers and Scientists</title>
+      <link>https://MinfeiLiang.github.io/publication/hoffman-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hoffman-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early-age cracking in concrete: Causes, consequences, remedialmeasures, and recommendations</title>
+      <link>https://MinfeiLiang.github.io/publication/safiuddin-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/safiuddin-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble learning: A survey</title>
+      <link>https://MinfeiLiang.github.io/publication/sagi-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/sagi-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of microstructure on the performance of composite cements: Why higher total porosity can result in higher strength</title>
+      <link>https://MinfeiLiang.github.io/publication/zajac-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zajac-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision and Image Processing: A Paper Review</title>
+      <link>https://MinfeiLiang.github.io/publication/wiley-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wiley-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Double feedback control method for determining early-age restrained creep of concrete using a temperature stress testing machine</title>
+      <link>https://MinfeiLiang.github.io/publication/zhu-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhu-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is long-term autogenous shrinkage a creep phenomenon induced by capillary effects due to self-desiccation?</title>
+      <link>https://MinfeiLiang.github.io/publication/aili-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/aili-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanoscale attraction between calcium-aluminosilicate-hydrate and Mg-Al layered double hydroxides in alkali-activated slag</title>
+      <link>https://MinfeiLiang.github.io/publication/ye-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ye-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling micro-chemo-mechanical properties of C–(A)–S–H and other phases in blended-cement pastes</title>
+      <link>https://MinfeiLiang.github.io/publication/wilson-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wilson-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of some basic creep tests on concrete and their implications for modeling</title>
+      <link>https://MinfeiLiang.github.io/publication/torrenti-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/torrenti-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning using Rectified Linear Units (ReLU)</title>
+      <link>https://MinfeiLiang.github.io/publication/agarap-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/agarap-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group Normalization</title>
+      <link>https://MinfeiLiang.github.io/publication/wu-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wu-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of selected factors on the relationship between the dynamic elastic modulus and compressive strength of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/jurowski-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/jurowski-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of slag composition on cracking potential of slag-portland cement concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/markandeya-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/markandeya-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microstructural effects in the simulation of creep of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/giorla-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/giorla-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of nanoindentation phase characterization and homogenization to estimate the elastic modulus of heterogeneously decalcified cement pastes</title>
+      <link>https://MinfeiLiang.github.io/publication/brown-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/brown-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Guide to Convolutional Neural Networks for Computer Vision</title>
+      <link>https://MinfeiLiang.github.io/publication/khan-2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/khan-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of 3D-DIC to characterize the effect of aggregate size and volume on non-uniform shrinkage strain distribution in concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/chen-2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/chen-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A 12 year EDF study of concrete creep under uniaxial and biaxial loading</title>
+      <link>https://MinfeiLiang.github.io/publication/charpin-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/charpin-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Viscoelastic Model for the Long‐Term Deflection of Segmental Prestressed Box Girders</title>
+      <link>https://MinfeiLiang.github.io/publication/beltempo-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/beltempo-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calibration of Material Models against TSTM Test for Crack Risk Assessment of Early-Age Concrete Containing Fly Ash</title>
+      <link>https://MinfeiLiang.github.io/publication/ji-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ji-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoupling the autogenous swelling from the self-desiccation deformation in early age concrete with mineral additions: Micro-macro observations and unified modelling</title>
+      <link>https://MinfeiLiang.github.io/publication/carette-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/carette-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early-age cracking tendency of alkali-activated slag binders compared to ordinary Portland cement SynerCrete&#39;18 International Conference on Interdisciplinary Approaches for Cement-based Materials and Structural Concrete EARLY-AGE CRACKING TENDENCY OF ALKALI-ACTIVATED SLAG BINDERS COMPARED TO ORDINARY PORTLAND CEMENT</title>
+      <link>https://MinfeiLiang.github.io/publication/rifai-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/rifai-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite-Element Modeling of Early-Age Concrete Behavior</title>
+      <link>https://MinfeiLiang.github.io/publication/liu-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/liu-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimentally validated multi-scale modelling scheme of deformation and fracture of cement paste</title>
+      <link>https://MinfeiLiang.github.io/publication/zhang-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiscale modeling elastic properties of cement-based materials considering imperfect interface effect</title>
+      <link>https://MinfeiLiang.github.io/publication/liang-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/liang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of individual phases on multiscale modeling mechanical properties of hardened cement paste</title>
+      <link>https://MinfeiLiang.github.io/publication/gao-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gao-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental investigation on the fundamental behavior of concrete creep</title>
+      <link>https://MinfeiLiang.github.io/publication/su-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/su-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling basic creep of concrete since setting time</title>
+      <link>https://MinfeiLiang.github.io/publication/delsaute-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/delsaute-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autogenous shrinkage of high performance concrete: A review</title>
+      <link>https://MinfeiLiang.github.io/publication/wu-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wu-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early-age hydration and mechanical properties of high volume slag and fly ash concrete at different curing temperatures</title>
+      <link>https://MinfeiLiang.github.io/publication/xu-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/xu-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of variable curing temperatures on autogenous deformation of blended cement concretes</title>
+      <link>https://MinfeiLiang.github.io/publication/orosz-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/orosz-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An overview on the effect of internal curing on shrinkage of high performance cement-based materials</title>
+      <link>https://MinfeiLiang.github.io/publication/liu-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/liu-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of mass concrete constituents on its properties</title>
+      <link>https://MinfeiLiang.github.io/publication/batog-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/batog-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensile creep and cracking resistance of concrete with different water-to-cement ratios at early age</title>
+      <link>https://MinfeiLiang.github.io/publication/shen-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/shen-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining the “time-zero” of autogenous shrinkage in high/ultra-high performance cement pastes</title>
+      <link>https://MinfeiLiang.github.io/publication/huang-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/huang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental validation of a framework for hygro-mechanical simulation of self-induced stresses in concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/azenha-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/azenha-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indentation creep of cementitious materials: Experimental investigation from nano to micro length scales</title>
+      <link>https://MinfeiLiang.github.io/publication/wei-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wei-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micro-mechanical properties of calcium sulfoaluminate cement and the correlation with microstructures</title>
+      <link>https://MinfeiLiang.github.io/publication/hu-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hu-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention Is All You Need</title>
+      <link>https://MinfeiLiang.github.io/publication/vaswani-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/vaswani-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and experimental study of a ternary blended cement containing high volume steel slag and blast-furnace slag based on Fuller distribution model</title>
+      <link>https://MinfeiLiang.github.io/publication/zhao-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhao-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of tensile and compressive creep of fly ash concretes in the hardening phase</title>
+      <link>https://MinfeiLiang.github.io/publication/klausen-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/klausen-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning-Based Crack Damage Detection Using Convolutional Neural Networks</title>
+      <link>https://MinfeiLiang.github.io/publication/cha-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/cha-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive study of concrete creep, shrinkage, and water content evolution under sealed and drying conditions</title>
+      <link>https://MinfeiLiang.github.io/publication/theiner-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/theiner-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Time-Dependent Behavior of Concrete Affected by Alkali Silica Reaction in Variable Environmental Conditions</title>
+      <link>https://MinfeiLiang.github.io/publication/alnaggar-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/alnaggar-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-developed testing system for determining the temperature behavior of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/zhu-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhu-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensile properties of concrete at very early ages</title>
+      <link>https://MinfeiLiang.github.io/publication/nguyen-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/nguyen-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corrugated tube protocol for autogenous shrinkage measurements: review and statistical assessment</title>
+      <link>https://MinfeiLiang.github.io/publication/wyrzykowski-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wyrzykowski-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sigmoid-Weighted Linear Units for Neural Network Function Approximation in Reinforcement Learning</title>
+      <link>https://MinfeiLiang.github.io/publication/elfwing-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/elfwing-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early age strains and self-stresses of expansive concrete members under uniaxial restraint conditions</title>
+      <link>https://MinfeiLiang.github.io/publication/semianiuk-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/semianiuk-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of Curing Time on the Drying Shrinkage of Concretes with Different Binders and Water-to-Binder Ratios</title>
+      <link>https://MinfeiLiang.github.io/publication/yang-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/yang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LightGBM: A highly efficient gradient boosting decision tree</title>
+      <link>https://MinfeiLiang.github.io/publication/ke-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ke-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The micromechanical signature of high-volume natural pozzolan concrete by combined statistical nanoindentation and SEM-EDS analyses</title>
+      <link>https://MinfeiLiang.github.io/publication/wilson-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wilson-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Principled Methods for Training Generative Adversarial Networks</title>
+      <link>https://MinfeiLiang.github.io/publication/arjovsky-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/arjovsky-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of supplementary cementitious materials on autogenous shrinkage of ultra-high performance concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/ghafari-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ghafari-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microstructural Modeling of Early-Age Creep in Hydrating Cement Paste</title>
+      <link>https://MinfeiLiang.github.io/publication/do-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/do-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unrolled Generative Adversarial Networks</title>
+      <link>https://MinfeiLiang.github.io/publication/metz-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/metz-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creep testing of concrete since setting time by means of permanent and repeated minute-long loadings</title>
+      <link>https://MinfeiLiang.github.io/publication/delsaute-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/delsaute-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of fibres on early age cracking of concrete tunnel lining. Part I: Laboratory ring test</title>
+      <link>https://MinfeiLiang.github.io/publication/briffaut-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/briffaut-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic programming for experimental big data mining: A case study on concrete creep formulation</title>
+      <link>https://MinfeiLiang.github.io/publication/gandomi-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gandomi-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring and modelling the early age and hardening behaviour of eco-concrete through continuous non-destructive measurements: Part I. Hydration and apparent activation energy</title>
+      <link>https://MinfeiLiang.github.io/publication/carette-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/carette-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting long-term compressive creep of concrete using inverse analysis method</title>
+      <link>https://MinfeiLiang.github.io/publication/ghasemzadeh-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ghasemzadeh-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aggregate and slag cement effects on autogenous shrinkage in cementitious materials</title>
+      <link>https://MinfeiLiang.github.io/publication/liu-2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/liu-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of lightweight aggregate type on early-age autogenous shrinkage of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/zhuang-2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhuang-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XGBoost</title>
+      <link>https://MinfeiLiang.github.io/publication/chen-2016/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/chen-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiscale estimation of ageing viscoelastic properties of cement-based materials: A combined analytical and numerical approach to estimate the behaviour at early age</title>
+      <link>https://MinfeiLiang.github.io/publication/honorio-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/honorio-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical nanoindentation technique in application to hardened cement pastes: Influences of material microstructure and analysis method</title>
+      <link>https://MinfeiLiang.github.io/publication/hu-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hu-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A coupled multi-physics model for creep, shrinkage and fracture of early-age concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/gasch-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gasch-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental impact analysis of blast furnace slag applied to ordinary Portland cement production</title>
+      <link>https://MinfeiLiang.github.io/publication/li-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/li-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-resolution high-speed nanoindentation mapping of cement pastes: Unravelling the effect of microstructure on the mechanical properties of hydrated phases</title>
+      <link>https://MinfeiLiang.github.io/publication/sebastiani-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/sebastiani-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study of Shrinkage Restraint Effects at Early-Age in Alkali-Activated Slag Mortars</title>
+      <link>https://MinfeiLiang.github.io/publication/rifai-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/rifai-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creep and drying shrinkage of concrete containing GGBFS</title>
+      <link>https://MinfeiLiang.github.io/publication/shariq-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/shariq-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanoindentation-based study of the micro-mechanical properties, structure, and hydration degree of slag-blended cementitious materials</title>
+      <link>https://MinfeiLiang.github.io/publication/wei-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wei-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concrete creep modelling for structural applications: Non-linearity, multi-axiality, hydration, temperature and drying effects</title>
+      <link>https://MinfeiLiang.github.io/publication/sellier-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/sellier-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://MinfeiLiang.github.io/publication/goodfellow-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/goodfellow-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Driven Machine Learning Methods for Microstructure Recognition</title>
+      <link>https://MinfeiLiang.github.io/publication/chowdhury-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/chowdhury-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of curing temperature on autogenous shrinkage and cracking resistance of high-performance concrete at an early age</title>
+      <link>https://MinfeiLiang.github.io/publication/shen-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/shen-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilization of high volume of industrial slag in self compacting concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/sethy-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/sethy-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Residual Learning for Image Recognition</title>
+      <link>https://MinfeiLiang.github.io/publication/he-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/he-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effectiveness of shrinkage-reducing admixture in reducing autogenous shrinkage stress of ultra-high-performance fiber-reinforced concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/yoo-2015/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/yoo-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal curing by superabsorbent polymers in ultra-high performance concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/justs-2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/justs-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative analysis of ettringite formed in the hydration products of high-alite cements</title>
+      <link>https://MinfeiLiang.github.io/publication/tao-2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/tao-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis and Modelling of Basic Creep</title>
+      <link>https://MinfeiLiang.github.io/publication/torrenti-2015/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/torrenti-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of superabsorbent polymers on the autogenous shrinkage properties of cement pastes with supplementary cementitious materials</title>
+      <link>https://MinfeiLiang.github.io/publication/snoeck-2015/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/snoeck-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive database for concrete creep and shrinkage: Analysis and recommendations for testing and recording</title>
+      <link>https://MinfeiLiang.github.io/publication/hubler-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hubler-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deformation and cracking modeling for early-age sidewall concrete based on the multi-field coupling mechanism</title>
+      <link>https://MinfeiLiang.github.io/publication/li-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/li-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring the setting process of mortars by ultrasonic P and S-wave transmission velocity measurement</title>
+      <link>https://MinfeiLiang.github.io/publication/carette-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/carette-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smeared-Bar Model for Viscoelastic Analysis of Uncracked Reinforced Concrete Structures</title>
+      <link>https://MinfeiLiang.github.io/publication/hedegaard-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hedegaard-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U-Net: Convolutional Networks for Biomedical Image Segmentation</title>
+      <link>https://MinfeiLiang.github.io/publication/ronneberger-2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ronneberger-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasibility study of high volume slag as cement replacement for sustainable structural lightweight oil palm shell concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/mo-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/mo-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A review on the mechanical properties of cement-based materials measured by nanoindentation</title>
+      <link>https://MinfeiLiang.github.io/publication/hu-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hu-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An investigation on very high volume slag pastes subjected to elevated temperatures</title>
+      <link>https://MinfeiLiang.github.io/publication/rashad-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/rashad-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative analysis of existing prediction models on the creep behaviour of recycled aggregate concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/silva-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/silva-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fractional visco-elastic Timoshenko beam from elastic Euler–Bernoulli beam</title>
+      <link>https://MinfeiLiang.github.io/publication/pirrotta-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/pirrotta-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation of the effect of aggregates&#39; morphology on concrete creep properties by numerical simulations</title>
+      <link>https://MinfeiLiang.github.io/publication/lavergne-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lavergne-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profex: A graphical user interface for the Rietveld refinement program BGMN</title>
+      <link>https://MinfeiLiang.github.io/publication/doebelin-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/doebelin-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of aggregate type on the strength and elastic modulus of high strength concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/beushausen-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/beushausen-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam: A Method for Stochastic Optimization</title>
+      <link>https://MinfeiLiang.github.io/publication/kingma-2014/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kingma-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Striving for Simplicity: The All Convolutional Net</title>
+      <link>https://MinfeiLiang.github.io/publication/springenberg-2014/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/springenberg-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of creep induction at an early age on subsequent prestress loss and structural response of prestressed concrete beam</title>
+      <link>https://MinfeiLiang.github.io/publication/asamoto-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/asamoto-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micromechanical investigation of Portland cement paste</title>
+      <link>https://MinfeiLiang.github.io/publication/hu-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hu-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial neural network for predicting creep of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/bal-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bal-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation of the permeability of porous concrete reconstructed using probabilistic description methods</title>
+      <link>https://MinfeiLiang.github.io/publication/chung-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/chung-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Very Deep Convolutional Networks for Large-Scale Image Recognition</title>
+      <link>https://MinfeiLiang.github.io/publication/simonyan-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/simonyan-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autogenous shrinkage of high performance concrete containing mineral admixtures under different curing temperatures</title>
+      <link>https://MinfeiLiang.github.io/publication/jiang-2014/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/jiang-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative Adversarial Networks</title>
+      <link>https://MinfeiLiang.github.io/publication/goodfellow-2014/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/goodfellow-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-term creep properties of cementitious materials: Comparing microindentation testing with macroscopic uniaxial compressive testing</title>
+      <link>https://MinfeiLiang.github.io/publication/zhang-2014/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhang-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling basic creep in concrete at early-age under compressive and tensile loading</title>
+      <link>https://MinfeiLiang.github.io/publication/hilaire-2014/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hilaire-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early-age deformation and autogenous cracking risk of slag-limestone filler-cement blended binders</title>
+      <link>https://MinfeiLiang.github.io/publication/bouasker-2014/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bouasker-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Damage prediction for regular reinforced concrete buildings using the decision tree algorithm</title>
+      <link>https://MinfeiLiang.github.io/publication/karbassi-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/karbassi-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to monitor the modulus of elasticity of concrete, automatically since the earliest age?</title>
+      <link>https://MinfeiLiang.github.io/publication/boulay-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/boulay-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto-Encoding Variational Bayes</title>
+      <link>https://MinfeiLiang.github.io/publication/kingma-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kingma-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early-age strain–stress relationship and cracking behavior of slag cement mixtures subject to constant uniaxial restraint</title>
+      <link>https://MinfeiLiang.github.io/publication/wei-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wei-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of temperature on the microstructure of calcium silicate hydrate (C-S-H)</title>
+      <link>https://MinfeiLiang.github.io/publication/gallucci-2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gallucci-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fib Model Code for Concrete Structures 2010</title>
+      <link>https://MinfeiLiang.github.io/publication/fib-2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/fib-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanoindentation investigation of creep properties of calcium silicate hydrates</title>
+      <link>https://MinfeiLiang.github.io/publication/vandamme-2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/vandamme-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical modeling of elastic modulus for cement paste using homogenization method</title>
+      <link>https://MinfeiLiang.github.io/publication/tian-2013/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/tian-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temperature dependence of autogenous shrinkage of silica fume cement pastes with a very low water–binder ratio</title>
+      <link>https://MinfeiLiang.github.io/publication/maruyama-2013/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/maruyama-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A numerical recipe for modelling hydration and heat flow in hardening concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/martinelli-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/martinelli-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of metakaolin, silica fume and slag on pore structure, interfacial transition zone and compressive strength of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/duan-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/duan-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanoindentation characteristics of cement with different mineral admixtures</title>
+      <link>https://MinfeiLiang.github.io/publication/he-2013/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/he-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance of iterative equation solvers for mass transfer problems in three-dimensional sphere packings in COMSOL</title>
+      <link>https://MinfeiLiang.github.io/publication/stute-2013/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/stute-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of zero-stress temperature prediction model for Portland cement concrete pavements</title>
+      <link>https://MinfeiLiang.github.io/publication/yeon-2013/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/yeon-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A review on testing methods for autogenous shrinkage measurement of cement-based materials</title>
+      <link>https://MinfeiLiang.github.io/publication/hu-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hu-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial neural network for predicting drying shrinkage of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/bal-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bal-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of concrete creep in tension and in compression: Influence of concrete age at loading and drying conditions</title>
+      <link>https://MinfeiLiang.github.io/publication/rossi-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/rossi-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determination of stress relaxation parameters of concrete in tension at early-age by ring test</title>
+      <link>https://MinfeiLiang.github.io/publication/gao-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gao-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian Process Kernels for Pattern Discovery and Extrapolation</title>
+      <link>https://MinfeiLiang.github.io/publication/wilson-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wilson-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to assess the hydration of slag cement concretes?</title>
+      <link>https://MinfeiLiang.github.io/publication/darquennes-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/darquennes-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some issues on prediction of massive structures cracking at early age COST TU1404 WG2 benchmark on numerical modelling of CBM at early age-stage 1 View project Behavior of soils (laterite) View project SOME ISSUES ON PREDICTION OF MASSIVE STRUCTURES CRACKING AT EARLY AGE</title>
+      <link>https://MinfeiLiang.github.io/publication/hilaire-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hilaire-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concrete early age basic creep: Experiments and test of rheological modelling approaches</title>
+      <link>https://MinfeiLiang.github.io/publication/briffaut-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/briffaut-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-term deformations and cracking risk of concrete with high content of mineral additions</title>
+      <link>https://MinfeiLiang.github.io/publication/darquennes-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/darquennes-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bending and creep buckling response of viscoelastic functionally graded beam-columns</title>
+      <link>https://MinfeiLiang.github.io/publication/hamed-2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hamed-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of temperature effects on autogenous shrinkage of concrete by a new prediction model</title>
+      <link>https://MinfeiLiang.github.io/publication/chu-2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/chu-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydration of Portland cement with high replacement by siliceous fly ash</title>
+      <link>https://MinfeiLiang.github.io/publication/deschner-2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/deschner-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydration of slag-blended cements</title>
+      <link>https://MinfeiLiang.github.io/publication/kolani-2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kolani-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improvements to the Eurocode 2 shrinkage model for concrete using a large experimental database</title>
+      <link>https://MinfeiLiang.github.io/publication/raphael-2012/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/raphael-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanical properties of self consolidating concrete blended with high volumes of fly ash and slag</title>
+      <link>https://MinfeiLiang.github.io/publication/kuder-2012/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kuder-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of high volume of fly ash and slag on the compressive strength of self-consolidating concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/hannesson-2012/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hannesson-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of granulated blast furnace slag and superplasticizer type on the fresh properties and compressive strength of self-compacting concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/boukendakdji-2012/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/boukendakdji-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of limestone filler and viscosity-modifying admixture on the shrinkage of self-compacting concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/valcuende-2012/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/valcuende-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods for determination of degree of reaction of slag in blended cement pastes</title>
+      <link>https://MinfeiLiang.github.io/publication/kocaba-2012/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kocaba-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AASHTO LRFD Bridge Design Specifications</title>
+      <link>https://MinfeiLiang.github.io/publication/aashto-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/aashto-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DESIGN OF A REVISITED TSTM SYSTEM FOR TESTING CONCRETE SINCE SETTING TIME UNDER FREE AND RESTRAINT CONDITIONS</title>
+      <link>https://MinfeiLiang.github.io/publication/staquet-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/staquet-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of particlesize of blast furnace slag on properties of portland cement</title>
+      <link>https://MinfeiLiang.github.io/publication/zhu-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhu-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elastic modulus change investigation of cement paste before and after carbonation using nanoindentation technique</title>
+      <link>https://MinfeiLiang.github.io/publication/han-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/han-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Histogram-based Outlier Score (HBOS): A fast Unsupervised Anomaly Detection Algorithm</title>
+      <link>https://MinfeiLiang.github.io/publication/goldstein-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/goldstein-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Algorithm for Efficient and Realistic Creep Analysis of Large Creep-Sensitive Concrete Structures</title>
+      <link>https://MinfeiLiang.github.io/publication/yu-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/yu-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling basic creep in concrete at early-age in compression and tension</title>
+      <link>https://MinfeiLiang.github.io/publication/hilaire-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hilaire-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the use of peak-force tapping atomic force microscopy for quantification of the local elastic modulus in hardened cement paste</title>
+      <link>https://MinfeiLiang.github.io/publication/trtik-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/trtik-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scikit-learn: Machine Learning in Python</title>
+      <link>https://MinfeiLiang.github.io/publication/pedregosa-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/pedregosa-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and simulation of cement hydration kinetics and microstructure development</title>
+      <link>https://MinfeiLiang.github.io/publication/thomas-2011/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/thomas-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermo–hygro–mechanical modelling of self-induced stresses during the service life of RC structures</title>
+      <link>https://MinfeiLiang.github.io/publication/azenha-2011/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/azenha-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of methods for arresting hydration of cement</title>
+      <link>https://MinfeiLiang.github.io/publication/zhang-2011/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhang-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stress Development of a Supertall Structure during Construction: Field Monitoring and Numerical Analysis</title>
+      <link>https://MinfeiLiang.github.io/publication/xia-2011/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/xia-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early age deformations of concrete with high content of mineral additions</title>
+      <link>https://MinfeiLiang.github.io/publication/darquennes-2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/darquennes-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validity of recent approaches for statistical nanoindentation of cement pastes</title>
+      <link>https://MinfeiLiang.github.io/publication/lura-2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lura-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AK-MCS: An active learning reliability method combining Kriging and Monte Carlo Simulation</title>
+      <link>https://MinfeiLiang.github.io/publication/echard-2011/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/echard-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Critical aspects of nano-indentation technique in application to hardened cement paste</title>
+      <link>https://MinfeiLiang.github.io/publication/davydov-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/davydov-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Structure with Randomness: Probabilistic Algorithms for Constructing Approximate Matrix Decompositions</title>
+      <link>https://MinfeiLiang.github.io/publication/halko-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/halko-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Properties of concrete-5th edition</title>
+      <link>https://MinfeiLiang.github.io/publication/neville-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/neville-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving test methods to measure early age autogenous shrinkage in concrete based on air cooling</title>
+      <link>https://MinfeiLiang.github.io/publication/amin-2010/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/amin-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early-age behaviour of concrete in massive structures, experimentation and modelling</title>
+      <link>https://MinfeiLiang.github.io/publication/zreiki-2010/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zreiki-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-phase kinetic model to simulate hydration of slag–cement blends</title>
+      <link>https://MinfeiLiang.github.io/publication/wang-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wang-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composition and microstructure of 20-year-old ordinary Portland cement–ground granulated blast-furnace slag blends containing 0 to 100% slag</title>
+      <link>https://MinfeiLiang.github.io/publication/taylor-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/taylor-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An investigation of microstructure evolution in cement paste through setting using ultrasonic and rheological measurements</title>
+      <link>https://MinfeiLiang.github.io/publication/subramaniam-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/subramaniam-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does microstructure matter for statistical nanoindentation techniques?</title>
+      <link>https://MinfeiLiang.github.io/publication/ulm-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ulm-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A critical examination of statistical nanoindentation on model materials and hardened cement pastes based on virtual experiments</title>
+      <link>https://MinfeiLiang.github.io/publication/trtik-2009/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/trtik-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental investigation of the effect of temperature on the first desorption isotherm of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/poyet-2009/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/poyet-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upscaling of viscoelastic properties of highly-filled composites: Investigation of matrix–inclusion-type morphologies with power-law viscoelastic material response</title>
+      <link>https://MinfeiLiang.github.io/publication/pichler-2009/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/pichler-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early-age acoustic emission measurements in hydrating cement paste: Evidence for cavitation during solidification due to self-desiccation</title>
+      <link>https://MinfeiLiang.github.io/publication/lura-2009/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lura-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the compressive strength of ground granulated blast furnace slag concrete using artificial neural network</title>
+      <link>https://MinfeiLiang.github.io/publication/bilim-2009/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bilim-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of cubic and orthorhombic C3A hydration in presence of gypsum and lime</title>
+      <link>https://MinfeiLiang.github.io/publication/kirchheim-2009/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kirchheim-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>µic: A new platform for modelling the hydration of cements</title>
+      <link>https://MinfeiLiang.github.io/publication/bishnoi-2009/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bishnoi-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viscoelastic Timoshenko beam theory</title>
+      <link>https://MinfeiLiang.github.io/publication/hilton-2009/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hilton-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early age properties development of concrete with different slag contents Construction History View project Interuniversity Attraction Poles (IAP) research project Physical Chemistry of Plasma-Surface Interactions View project</title>
+      <link>https://MinfeiLiang.github.io/publication/darquennes-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/darquennes-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental study on the convective heat transfer coefficient of early-age concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/lee-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lee-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanogranular origin of concrete creep</title>
+      <link>https://MinfeiLiang.github.io/publication/vandamme-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/vandamme-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimisation of using lightweight aggregates in mitigating autogenous deformation of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/akcay-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/akcay-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UHPFRC tensile creep at early age</title>
+      <link>https://MinfeiLiang.github.io/publication/kamen-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kamen-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The nano-mechanical signature of Ultra High Performance Concrete by statistical nanoindentation techniques</title>
+      <link>https://MinfeiLiang.github.io/publication/sorelli-2008/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/sorelli-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Global Reliability Analysis for Nonlinear Implicit Performance Functions</title>
+      <link>https://MinfeiLiang.github.io/publication/bichon-2008/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bichon-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-phase hydration model for prediction of hydration-heat release of blended cements</title>
+      <link>https://MinfeiLiang.github.io/publication/meinhard-2008/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/meinhard-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surface roughness criteria for cement paste nanoindentation</title>
+      <link>https://MinfeiLiang.github.io/publication/miller-2008/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/miller-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A numerical model for elastic modulus of concrete considering interfacial transition zone</title>
+      <link>https://MinfeiLiang.github.io/publication/lee-2008/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lee-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermodynamics of crystallization stresses in DEF</title>
+      <link>https://MinfeiLiang.github.io/publication/flatt-2008/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/flatt-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A review of early-age properties of cement-based materials</title>
+      <link>https://MinfeiLiang.github.io/publication/bentz-2008/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bentz-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sustainable development and climate change initiatives</title>
+      <link>https://MinfeiLiang.github.io/publication/damtoft-2008/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/damtoft-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aging Maxwell Constitutive Model for Concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/suter-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/suter-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separation of thermal and autogenous deformation at varying temperatures using optical fiber sensors</title>
+      <link>https://MinfeiLiang.github.io/publication/viviani-2007/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/viviani-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of temperature on the pore solution, microstructure and hydration products of Portland cement pastes</title>
+      <link>https://MinfeiLiang.github.io/publication/lothenbach-2007/</link>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lothenbach-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The AFm phase in Portland cement</title>
+      <link>https://MinfeiLiang.github.io/publication/matschei-2007/</link>
+      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/matschei-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multiscale micromechanics model for the autogenous-shrinkage deformation of early-age cement-based materials</title>
+      <link>https://MinfeiLiang.github.io/publication/pichler-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/pichler-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamentals of Micromechanics of Solidss</title>
+      <link>https://MinfeiLiang.github.io/publication/qu-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/qu-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling elasticity of a hydrating cement paste</title>
+      <link>https://MinfeiLiang.github.io/publication/sanahuja-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/sanahuja-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The hydration of slag, part 2: reaction models for blended cement</title>
+      <link>https://MinfeiLiang.github.io/publication/chen-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/chen-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid indentation analysis of composite microstructure and mechanics: Principles and validation</title>
+      <link>https://MinfeiLiang.github.io/publication/constantinides-2006/</link>
+      <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/constantinides-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An interior algorithm for nonlinear optimization that combines line search and trust region steps</title>
+      <link>https://MinfeiLiang.github.io/publication/waltz-2006/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/waltz-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autogenous shrinkage of concrete containing granulated blast-furnace slag</title>
+      <link>https://MinfeiLiang.github.io/publication/lee-2006/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lee-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hygro-thermo-chemo-mechanical modelling of concrete at early ages and beyond. Part I: hydration and hygro-thermal phenomena</title>
+      <link>https://MinfeiLiang.github.io/publication/gawin-2006/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gawin-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling of concrete at early ages: Application to an externally restrained slab</title>
+      <link>https://MinfeiLiang.github.io/publication/faria-2006/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/faria-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pore segmentation of cement-based materials from backscattered electron images</title>
+      <link>https://MinfeiLiang.github.io/publication/wong-2006/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wong-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of heat curing on the pore structure and compressive strength of self-compacting concrete (SCC)</title>
+      <link>https://MinfeiLiang.github.io/publication/reinhardt-2006/</link>
+      <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/reinhardt-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strength development of mortars containing ground granulated blast-furnace slag: Effect of curing temperature and determination of apparent activation energies</title>
+      <link>https://MinfeiLiang.github.io/publication/barnett-2006/</link>
+      <pubDate>Wed, 01 Mar 2006 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/barnett-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A general method of computing the derivative of experimental data</title>
+      <link>https://MinfeiLiang.github.io/publication/lubansky-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lubansky-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autogenous deformations of cement pastes: Part I. Temperature effects at early age and micro–macro correlations</title>
+      <link>https://MinfeiLiang.github.io/publication/mounanga-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/mounanga-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian processes for machine learning</title>
+      <link>https://MinfeiLiang.github.io/publication/rasmussen-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/rasmussen-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of fineness and particle size distribution of granulated blast-furnace slag on the hydraulic reactivity in cement systems</title>
+      <link>https://MinfeiLiang.github.io/publication/wang-2005/</link>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/wang-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental relationship between splitting tensile strength and compressive strength of GFRC and PFRC</title>
+      <link>https://MinfeiLiang.github.io/publication/choi-2005/</link>
+      <pubDate>Mon, 01 Aug 2005 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/choi-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ITZ microstructure of concrete containing GGBS</title>
+      <link>https://MinfeiLiang.github.io/publication/gao-2005/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gao-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected engineering properties of concrete incorporating slag and metakaolin</title>
+      <link>https://MinfeiLiang.github.io/publication/khatib-2005/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/khatib-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Optimization Design Method Using Kriging Model</title>
+      <link>https://MinfeiLiang.github.io/publication/jeong-2005/</link>
+      <pubDate>Tue, 01 Mar 2005 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/jeong-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autogenous shrinkage of concrete: a balance between autogenous swelling and self-desiccation</title>
+      <link>https://MinfeiLiang.github.io/publication/barcelo-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/barcelo-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EN 1992-1-1 Eurocode 2: Design of Concrete Structures—Part 1-1: General Ruels and Rules for Buildings</title>
+      <link>https://MinfeiLiang.github.io/publication/en-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/en-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Interfacial Transition Zone (ITZ) Between Cement Paste and Aggregate in Concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/scrivener-2004/</link>
+      <pubDate>Fri, 01 Oct 2004 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/scrivener-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tobermorite/jennite- and tobermorite/calcium hydroxide-based models for the structure of C-S-H: applicability to hardened pastes of tricalcium silicate, β-dicalcium silicate, Portland cement, and blends of Portland cement with blast-furnace slag, metakaolin, or silica fume</title>
+      <link>https://MinfeiLiang.github.io/publication/richardson-2004/</link>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/richardson-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemoplastic material model for the simulation of early-age cracking: From the constitutive law to numerical analyses of massive concrete structures</title>
+      <link>https://MinfeiLiang.github.io/publication/lackner-2004/</link>
+      <pubDate>Thu, 01 Jul 2004 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lackner-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study on the development of the microstructure in cement-based materials by means of numerical simulation and ultrasonic pulse velocity measurement</title>
+      <link>https://MinfeiLiang.github.io/publication/ye-2004/</link>
+      <pubDate>Thu, 01 Jul 2004 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ye-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using the maturity method in concrete cracking control at early ages</title>
+      <link>https://MinfeiLiang.github.io/publication/waller-2004/</link>
+      <pubDate>Thu, 01 Jul 2004 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/waller-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An introduction to decision tree modeling</title>
+      <link>https://MinfeiLiang.github.io/publication/myles-2004/</link>
+      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/myles-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterisation of materials subjected to large strains by inverse modelling based on in-plane displacement fields</title>
+      <link>https://MinfeiLiang.github.io/publication/kajberg-2004/</link>
+      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kajberg-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Progress in Research on and Code Evaluation of Concrete Creep and Shrinkage in Japan</title>
+      <link>https://MinfeiLiang.github.io/publication/sakata-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/sakata-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of two types of C-S-H on the elasticity of cement-based materials: Results from nanoindentation and micromechanical modeling</title>
+      <link>https://MinfeiLiang.github.io/publication/constantinides-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/constantinides-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of water-to-cementitious materials ratio and silica fume on the autogenous shrinkage of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/zhang-2003/</link>
+      <pubDate>Wed, 01 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhang-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multiscale micromechanics-hydration model for the early-age elastic properties of cement-based materials</title>
+      <link>https://MinfeiLiang.github.io/publication/bernard-2003/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bernard-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early development of properties in a cement paste: A numerical and experimental study</title>
+      <link>https://MinfeiLiang.github.io/publication/princigallo-2003/</link>
+      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/princigallo-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of early age cracking characteristics in cementitious systems</title>
+      <link>https://MinfeiLiang.github.io/publication/bentur-2003/</link>
+      <pubDate>Tue, 01 Apr 2003 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bentur-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study on some factors affecting the results in the use of MIP method in concrete research</title>
+      <link>https://MinfeiLiang.github.io/publication/kumar-2003/</link>
+      <pubDate>Sat, 01 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kumar-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autogenous shrinkage in high-performance cement paste: An evaluation of basic mechanisms</title>
+      <link>https://MinfeiLiang.github.io/publication/lura-2003/</link>
+      <pubDate>Sat, 01 Feb 2003 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lura-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional microstructure analysis of numerically simulated cementitious materials</title>
+      <link>https://MinfeiLiang.github.io/publication/ye-2003/</link>
+      <pubDate>Sat, 01 Feb 2003 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ye-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Study and Numerical Simulation of the Development of the Microstructure and Permeability of Cementitious Materials</title>
+      <link>https://MinfeiLiang.github.io/publication/guang-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/guang-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensile and Compressive Creep of Early Age Concrete: Testing and Modelling</title>
+      <link>https://MinfeiLiang.github.io/publication/atrushi-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/atrushi-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Thermal Decomposition of Mg-Al Hydrotalcites: Effects of Interlayer Anions and Characteristics of the Final Structure</title>
+      <link>https://MinfeiLiang.github.io/publication/roelofs-2002/</link>
+      <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/roelofs-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can the maturity concept be used to separate the autogenous shrinkage and thermal deformation of a cement paste at early age?</title>
+      <link>https://MinfeiLiang.github.io/publication/turcry-2002/</link>
+      <pubDate>Sun, 01 Sep 2002 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/turcry-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of splitting tensile strength of high-performance concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/zain-2002/</link>
+      <pubDate>Thu, 01 Aug 2002 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zain-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlations between Mechanical Properties of High-Strength Concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/rashid-2002/</link>
+      <pubDate>Sat, 01 Jun 2002 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/rashid-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficiency of lightweight aggregates for internal curing of high strength concrete to eliminate autogenous shrinkage</title>
+      <link>https://MinfeiLiang.github.io/publication/zhutovsky-2002/</link>
+      <pubDate>Fri, 01 Mar 2002 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhutovsky-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diplôme des Etudes Approfondies Solides</title>
+      <link>https://MinfeiLiang.github.io/publication/vandamme-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/vandamme-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early age creep and stress relaxation of concrete containing blended cements</title>
+      <link>https://MinfeiLiang.github.io/publication/pane-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/pane-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EN 1992-1-1 Eurocode 2: Design of Concrete Structures—Part 1-1: General Ruels and Rules for Buildings</title>
+      <link>https://MinfeiLiang.github.io/publication/en-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/en-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Heterogeneous Materials</title>
+      <link>https://MinfeiLiang.github.io/publication/torquato-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/torquato-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding nanoindentation unloading curves</title>
+      <link>https://MinfeiLiang.github.io/publication/pharr-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/pharr-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of curing temperature and type of cement on early-age shrinkage of high-performance concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/lura-2001/</link>
+      <pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lura-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prevention of autogenous shrinkage in high-strength concrete by internal curing using wet lightweight aggregates</title>
+      <link>https://MinfeiLiang.github.io/publication/bentur-2001/</link>
+      <pubDate>Thu, 01 Nov 2001 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bentur-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Numerical Method for the Analysis of Rheologic Effects in Concrete Bridges</title>
+      <link>https://MinfeiLiang.github.io/publication/destrebecq-2001/</link>
+      <pubDate>Sat, 01 Sep 2001 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/destrebecq-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of environmental conditions on the properties of fresh and hardened concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/almusallam-2001/</link>
+      <pubDate>Wed, 01 Aug 2001 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/almusallam-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relations between X-ray tomography, density and mechanical properties in carbon–carbon composites</title>
+      <link>https://MinfeiLiang.github.io/publication/douarche-2001/</link>
+      <pubDate>Wed, 01 Aug 2001 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/douarche-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ITZ in concrete – a different view based on image analysis and SEM observations</title>
+      <link>https://MinfeiLiang.github.io/publication/diamond-2001/</link>
+      <pubDate>Sun, 01 Apr 2001 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/diamond-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A taxonomy of global optimization methods based on response surfaces</title>
+      <link>https://MinfeiLiang.github.io/publication/jones-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/jones-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deformational Behaviour of Concrete Influenced by Hydration Related Changes of the Microstructure</title>
+      <link>https://MinfeiLiang.github.io/publication/lokhorst-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lokhorst-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of Cement Particle-Size Distribution on Early Age Autogenous Strains and Stresses in Cement-Based Materials</title>
+      <link>https://MinfeiLiang.github.io/publication/bentz-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bentz-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random forests</title>
+      <link>https://MinfeiLiang.github.io/publication/breiman-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/breiman-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A trust region method based on interior point techniques for nonlinear programming</title>
+      <link>https://MinfeiLiang.github.io/publication/byrd-2000/</link>
+      <pubDate>Wed, 01 Nov 2000 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/byrd-2000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autogenous shrinkage and induced restraining stresses in high-strength concretes</title>
+      <link>https://MinfeiLiang.github.io/publication/igarashi-2000/</link>
+      <pubDate>Wed, 01 Nov 2000 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/igarashi-2000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mercury porosimetry</title>
+      <link>https://MinfeiLiang.github.io/publication/diamond-2000/</link>
+      <pubDate>Sun, 01 Oct 2000 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/diamond-2000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A model for two types of calcium silicate hydrate in the microstructure of Portland cement pastes</title>
+      <link>https://MinfeiLiang.github.io/publication/tennis-2000/</link>
+      <pubDate>Thu, 01 Jun 2000 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/tennis-2000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new approach to determine autogenous shrinkage of mortar at an early age considering temperature history</title>
+      <link>https://MinfeiLiang.github.io/publication/loukili-2000/</link>
+      <pubDate>Thu, 01 Jun 2000 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/loukili-2000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of cement particle size distribution on performance properties of Portland cement-based materials</title>
+      <link>https://MinfeiLiang.github.io/publication/bentz-1999/</link>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bentz-1999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermo-Chemo-Mechanical Model for Concrete. I: Hydration and Aging</title>
+      <link>https://MinfeiLiang.github.io/publication/cervera-1999/</link>
+      <pubDate>Wed, 01 Sep 1999 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/cervera-1999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of temperature on autogenous deformation and relative humidity change in hardening cement paste</title>
+      <link>https://MinfeiLiang.github.io/publication/jensen-1999/</link>
+      <pubDate>Thu, 01 Apr 1999 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/jensen-1999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Interior Point Algorithm for Large-Scale Nonlinear Programming</title>
+      <link>https://MinfeiLiang.github.io/publication/byrd-1999/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/byrd-1999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compressive strength development of concrete with different curing time and temperature</title>
+      <link>https://MinfeiLiang.github.io/publication/kim-1998/</link>
+      <pubDate>Tue, 01 Dec 1998 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kim-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Global Optimization of Expensive Black-Box Functions</title>
+      <link>https://MinfeiLiang.github.io/publication/jones-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/jones-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of adiabatic temperature rise in conventional and high-performance concretes using a 3-D microstructural model</title>
+      <link>https://MinfeiLiang.github.io/publication/bentz-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bentz-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prevention of Thermal Cracking in Concrete at Early Ages</title>
+      <link>https://MinfeiLiang.github.io/publication/spingenschmid-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/spingenschmid-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of the drying shrinkage behaviour of concrete using a micromechanical model based on the micropore structure of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/shimomura-1997/</link>
+      <pubDate>Mon, 01 Dec 1997 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/shimomura-1997/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring physical density with X-ray computed tomography</title>
+      <link>https://MinfeiLiang.github.io/publication/phillips-1997/</link>
+      <pubDate>Mon, 01 Dec 1997 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/phillips-1997/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical modelling of autogenous shrinkage of hardening cement paste</title>
+      <link>https://MinfeiLiang.github.io/publication/koenders-1997/</link>
+      <pubDate>Wed, 01 Oct 1997 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/koenders-1997/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concrete strength prediction by means of neural network</title>
+      <link>https://MinfeiLiang.github.io/publication/lai-1997/</link>
+      <pubDate>Sat, 01 Mar 1997 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lai-1997/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cement chemistry</title>
+      <link>https://MinfeiLiang.github.io/publication/taylor-1997/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/taylor-1997/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FRACTURE SIMULATIONS OF CONCRETE USING LATTICE MODELS: COMPUTATIONAL ASPECTS</title>
+      <link>https://MinfeiLiang.github.io/publication/schlangen-1997/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/schlangen-1997/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three‐Dimensional Computer Simulation of Portland Cement Hydration and Microstructure Development</title>
+      <link>https://MinfeiLiang.github.io/publication/bentz-1997/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bentz-1997/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Latin hypercube sampling</title>
+      <link>https://MinfeiLiang.github.io/publication/loh-1996/</link>
+      <pubDate>Tue, 01 Oct 1996 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/loh-1996/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bagging predictors</title>
+      <link>https://MinfeiLiang.github.io/publication/breiman-1996/</link>
+      <pubDate>Thu, 01 Aug 1996 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/breiman-1996/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benefits of slag and fly ash</title>
+      <link>https://MinfeiLiang.github.io/publication/bijen-1996/</link>
+      <pubDate>Mon, 01 Jul 1996 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bijen-1996/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Interior Trust Region Approach for Nonlinear Minimization Subject to Bounds</title>
+      <link>https://MinfeiLiang.github.io/publication/coleman-1996/</link>
+      <pubDate>Wed, 01 May 1996 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/coleman-1996/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concrete at high temperatures: material properties and mathematical models</title>
+      <link>https://MinfeiLiang.github.io/publication/bazant-1996/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bazant-1996/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Degrees of reaction of the slag in some blends with Portland cements</title>
+      <link>https://MinfeiLiang.github.io/publication/lumley-1996/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lumley-1996/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling of Thermochemomechanical Couplings of Concrete at Early Ages</title>
+      <link>https://MinfeiLiang.github.io/publication/ulm-1995/</link>
+      <pubDate>Sat, 01 Jul 1995 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ulm-1995/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of cement and admixture on autogenous shrinkage of cement paste</title>
+      <link>https://MinfeiLiang.github.io/publication/tazawa-1995/</link>
+      <pubDate>Wed, 01 Feb 1995 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/tazawa-1995/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous retardation spectrum for solidification theory of aging creep of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/bazant-1995/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bazant-1995/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of coarse aggregate on elastic modulus and compressive strength of high performance concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/zhou-1995/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/zhou-1995/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial transition zone in concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/ollivier-1995/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ollivier-1995/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microstructural Aspects of the Mechanical Response of Plain Concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/pantazopoulou-1995/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/pantazopoulou-1995/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discussion on: A new look at the response surface approach for reliability analysis</title>
+      <link>https://MinfeiLiang.github.io/publication/bayer-1994/</link>
+      <pubDate>Thu, 01 Dec 1994 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bayer-1994/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the convergence of interior-reflective Newton methods for nonlinear minimization subject to bounds</title>
+      <link>https://MinfeiLiang.github.io/publication/coleman-1994/</link>
+      <pubDate>Sat, 01 Oct 1994 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/coleman-1994/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The identification of parameters for visco-plastic models via finite-element methods and gradient methods</title>
+      <link>https://MinfeiLiang.github.io/publication/mahnken-1994/</link>
+      <pubDate>Sun, 01 May 1994 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/mahnken-1994/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of the cracking frame and the temperature-stress testing machine</title>
+      <link>https://MinfeiLiang.github.io/publication/springenschmid-1994/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/springenschmid-1994/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formation and expansion of ettringite crystals</title>
+      <link>https://MinfeiLiang.github.io/publication/min-1994/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/min-1994/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viscoelasticity with Aging Caused by Solidification of Nonaging Constituent</title>
+      <link>https://MinfeiLiang.github.io/publication/carol-1993/</link>
+      <pubDate>Mon, 01 Nov 1993 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/carol-1993/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new look at the response surface approach for reliability analysis</title>
+      <link>https://MinfeiLiang.github.io/publication/rajashekhar-1993/</link>
+      <pubDate>Fri, 01 Oct 1993 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/rajashekhar-1993/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An improved technique for determining hardness and elastic modulus using load and displacement sensing indentation experiments</title>
+      <link>https://MinfeiLiang.github.io/publication/oliver-1992/</link>
+      <pubDate>Mon, 01 Jun 1992 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/oliver-1992/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of microstructures in plain cement pastes hydrated at different temperatures</title>
+      <link>https://MinfeiLiang.github.io/publication/kjellsen-1991/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kjellsen-1991/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of hydration and Formation of Structure in Hardening Cement-Based Materials</title>
+      <link>https://MinfeiLiang.github.io/publication/breugel-1991/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/breugel-1991/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A model for the non-linear time-dependent behaviour of concrete in compression based on a Maxwell chain with exponential algorithm</title>
+      <link>https://MinfeiLiang.github.io/publication/carol-1989/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/carol-1989/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective dissolution of hydrated blast furnace slag cements</title>
+      <link>https://MinfeiLiang.github.io/publication/luke-1987/</link>
+      <pubDate>Sun, 01 Mar 1987 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/luke-1987/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A description of micro- and macroscale damage of concrete structures</title>
+      <link>https://MinfeiLiang.github.io/publication/mazars-1986/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/mazars-1986/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concrete Tests—Test Specimens—Part 2: Making and Curing of Test Specimens for Strength Tests; ISO/TC 71/SC 1 Test Methods for Concrete; </title>
+      <link>https://MinfeiLiang.github.io/publication/brussels-1986/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/brussels-1986/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log Double Power Law for Concrete Creep</title>
+      <link>https://MinfeiLiang.github.io/publication/balant-1985/</link>
+      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/balant-1985/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Optimization</title>
+      <link>https://MinfeiLiang.github.io/publication/gill-1981/</link>
+      <pubDate>Thu, 01 Jan 1981 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gill-1981/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physico-Chemical Properties of Synthetic Hydrotalcites in Relation to Composition</title>
+      <link>https://MinfeiLiang.github.io/publication/miyata-1980/</link>
+      <pubDate>Tue, 01 Jan 1980 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/miyata-1980/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The application of Bayesian methods for seeking the extremum</title>
+      <link>https://MinfeiLiang.github.io/publication/mockus-1978/</link>
+      <pubDate>Sun, 01 Jan 1978 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/mockus-1978/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A globally convergent method for nonlinear programming</title>
+      <link>https://MinfeiLiang.github.io/publication/han-1977/</link>
+      <pubDate>Fri, 01 Jul 1977 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/han-1977/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maturity computer for controlled curing and hardening of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/hansen-1977/</link>
+      <pubDate>Sat, 01 Jan 1977 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hansen-1977/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Double power law for basic creep of concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/bazant-1976/</link>
+      <pubDate>Thu, 01 Jan 1976 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bazant-1976/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Properties of type K expensive cement of pure components II. Proposed mechanism of ettringite formation and expansion in unrestrained paste of pure expansive component</title>
+      <link>https://MinfeiLiang.github.io/publication/bentur-1974/</link>
+      <pubDate>Sun, 01 Sep 1974 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bentur-1974/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Activation energy and activation volume of creep of hardened cement paste</title>
+      <link>https://MinfeiLiang.github.io/publication/klug-1974/</link>
+      <pubDate>Mon, 01 Jul 1974 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/klug-1974/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rate-type creep law of aging concrete based on Maxwell chain ER(t, r)</title>
+      <link>https://MinfeiLiang.github.io/publication/bazant-1974/</link>
+      <pubDate>Tue, 01 Jan 1974 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bazant-1974/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Average stress in matrix and average elastic energy of materials with misfitting inclusions</title>
+      <link>https://MinfeiLiang.github.io/publication/mori-1973/</link>
+      <pubDate>Tue, 01 May 1973 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/mori-1973/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanism of expansion associated with ettringite formation</title>
+      <link>https://MinfeiLiang.github.io/publication/mehta-1973/</link>
+      <pubDate>Mon, 01 Jan 1973 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/mehta-1973/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>THERMOMECHANICAL ANALYSIS OF VISCOELASTIC SOLIDS Associate Professor of Civil Engineering</title>
+      <link>https://MinfeiLiang.github.io/publication/taylor-1970/</link>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/taylor-1970/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A self-consistent mechanics of composite materials</title>
+      <link>https://MinfeiLiang.github.io/publication/hill-1965/</link>
+      <pubDate>Sun, 01 Aug 1965 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hill-1965/</guid>
+      <description></description>
     </item>
     
   </channel>

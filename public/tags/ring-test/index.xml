@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ring Test | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/ring-test/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/ring-test/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ring Test</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Ring Test</title>
+      <link>https://MinfeiLiang.github.io/tags/ring-test/</link>
+    </image>
+    
+    <item>
+      <title>Assessment of behaviour and cracking susceptibility of cementitious systems under restrained conditions through ring tests: A critical review</title>
+      <link>https://MinfeiLiang.github.io/publication/kanavaris-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/kanavaris-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of fibres on early age cracking of concrete tunnel lining. Part I: Laboratory ring test</title>
+      <link>https://MinfeiLiang.github.io/publication/briffaut-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/briffaut-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determination of stress relaxation parameters of concrete in tension at early-age by ring test</title>
+      <link>https://MinfeiLiang.github.io/publication/gao-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gao-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

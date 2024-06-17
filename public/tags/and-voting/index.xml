@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>And Voting | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/and-voting/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/and-voting/index.xml" rel="self" type="application/rss+xml" />
+    <description>And Voting</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>And Voting</title>
+      <link>https://MinfeiLiang.github.io/tags/and-voting/</link>
+    </image>
+    
+    <item>
+      <title>An ensemble machine learning approach for prediction and optimization of modulus of elasticity of recycled aggregate concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/han-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/han-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

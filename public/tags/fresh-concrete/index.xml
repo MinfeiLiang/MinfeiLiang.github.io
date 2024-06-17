@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fresh Concrete | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/fresh-concrete/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/fresh-concrete/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fresh Concrete</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Fresh Concrete</title>
+      <link>https://MinfeiLiang.github.io/tags/fresh-concrete/</link>
+    </image>
+    
+    <item>
+      <title>Early-age acoustic emission measurements in hydrating cement paste: Evidence for cavitation during solidification due to self-desiccation</title>
+      <link>https://MinfeiLiang.github.io/publication/lura-2009/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/lura-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study on the development of the microstructure in cement-based materials by means of numerical simulation and ultrasonic pulse velocity measurement</title>
+      <link>https://MinfeiLiang.github.io/publication/ye-2004/</link>
+      <pubDate>Thu, 01 Jul 2004 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ye-2004/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fib Model Code 2010 | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/tags/fib-model-code-2010/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/fib-model-code-2010/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fib Model Code 2010</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Fib Model Code 2010</title>
+      <link>https://MinfeiLiang.github.io/tags/fib-model-code-2010/</link>
+    </image>
+    
+    <item>
+      <title>Experimental evaluation and modelling of early-age basic tensile creep in high-performance concrete</title>
+      <link>https://MinfeiLiang.github.io/publication/dabarera-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/dabarera-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early-age evolution of strength, stiffness, and non-aging creep of concretes: Experimental characterization and correlation analysis</title>
+      <link>https://MinfeiLiang.github.io/publication/ausweger-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/ausweger-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

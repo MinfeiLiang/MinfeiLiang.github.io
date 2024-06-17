@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book | MinfeiLiang</title>
+    <link>https://MinfeiLiang.github.io/publication_types/book/</link>
+      <atom:link href="https://MinfeiLiang.github.io/publication_types/book/index.xml" rel="self" type="application/rss+xml" />
+    <description>Book</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Book</title>
+      <link>https://MinfeiLiang.github.io/publication_types/book/</link>
+    </image>
+    
+    <item>
+      <title>Numerical Methods for Engineers and Scientists</title>
+      <link>https://MinfeiLiang.github.io/publication/hoffman-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/hoffman-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://MinfeiLiang.github.io/publication/goodfellow-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/goodfellow-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fib Model Code for Concrete Structures 2010</title>
+      <link>https://MinfeiLiang.github.io/publication/fib-2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/fib-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AASHTO LRFD Bridge Design Specifications</title>
+      <link>https://MinfeiLiang.github.io/publication/aashto-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/aashto-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Properties of concrete-5th edition</title>
+      <link>https://MinfeiLiang.github.io/publication/neville-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/neville-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamentals of Micromechanics of Solidss</title>
+      <link>https://MinfeiLiang.github.io/publication/qu-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/qu-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian processes for machine learning</title>
+      <link>https://MinfeiLiang.github.io/publication/rasmussen-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/rasmussen-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EN 1992-1-1 Eurocode 2: Design of Concrete Structures—Part 1-1: General Ruels and Rules for Buildings</title>
+      <link>https://MinfeiLiang.github.io/publication/en-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/en-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EN 1992-1-1 Eurocode 2: Design of Concrete Structures—Part 1-1: General Ruels and Rules for Buildings</title>
+      <link>https://MinfeiLiang.github.io/publication/en-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/en-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Heterogeneous Materials</title>
+      <link>https://MinfeiLiang.github.io/publication/torquato-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/torquato-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prevention of Thermal Cracking in Concrete at Early Ages</title>
+      <link>https://MinfeiLiang.github.io/publication/spingenschmid-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/spingenschmid-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cement chemistry</title>
+      <link>https://MinfeiLiang.github.io/publication/taylor-1997/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/taylor-1997/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concrete at high temperatures: material properties and mathematical models</title>
+      <link>https://MinfeiLiang.github.io/publication/bazant-1996/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/bazant-1996/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concrete Tests—Test Specimens—Part 2: Making and Curing of Test Specimens for Strength Tests; ISO/TC 71/SC 1 Test Methods for Concrete; </title>
+      <link>https://MinfeiLiang.github.io/publication/brussels-1986/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/brussels-1986/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Optimization</title>
+      <link>https://MinfeiLiang.github.io/publication/gill-1981/</link>
+      <pubDate>Thu, 01 Jan 1981 00:00:00 +0000</pubDate>
+      <guid>https://MinfeiLiang.github.io/publication/gill-1981/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
