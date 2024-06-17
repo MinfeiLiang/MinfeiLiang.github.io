@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning for Early-Age Stress | MinfeiLiang</title>
-    <link>http://localhost:1313/tags/machine-learning-for-early-age-stress/</link>
-      <atom:link href="http://localhost:1313/tags/machine-learning-for-early-age-stress/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://MinfeiLiang.github.io/tags/machine-learning-for-early-age-stress/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/machine-learning-for-early-age-stress/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning for Early-Age Stress</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Machine Learning for Early-Age Stress</title>
-      <link>http://localhost:1313/tags/machine-learning-for-early-age-stress/</link>
+      <link>https://MinfeiLiang.github.io/tags/machine-learning-for-early-age-stress/</link>
     </image>
     
     <item>
       <title>Active Learning for Stress Evolution Prediction</title>
-      <link>http://localhost:1313/publication/active-learning/</link>
+      <link>https://MinfeiLiang.github.io/publication/active-learning/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/active-learning/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/active-learning/</guid>
       <description>&lt;p&gt;The Thermo-Chemo-Mechanical Model for early-age stress evolution:
 &lt;img src=&#34;featured1.jpg&#34; alt=&#34;Image 1&#34;&gt;
 Some nice results:

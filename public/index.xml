@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MinfeiLiang</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://MinfeiLiang.github.io/</link>
+      <atom:link href="https://MinfeiLiang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>MinfeiLiang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>MinfeiLiang</title>
-      <link>http://localhost:1313/</link>
+      <link>https://MinfeiLiang.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:1313/event/example/</link>
+      <link>https://MinfeiLiang.github.io/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
+      <guid>https://MinfeiLiang.github.io/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,17 +35,17 @@
     
     <item>
       <title>Tensile behavior of rebar-reinforced coarse aggregate ultra-high performance concrete (R-CA-UHPC) members: Experiments and restrained shrinkage creep effect</title>
-      <link>http://localhost:1313/publication/shi-2024/</link>
+      <link>https://MinfeiLiang.github.io/publication/shi-2024/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/shi-2024/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/shi-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Concreep 12</title>
-      <link>http://localhost:1313/post/concreep-12/</link>
+      <link>https://MinfeiLiang.github.io/post/concreep-12/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/concreep-12/</guid>
+      <guid>https://MinfeiLiang.github.io/post/concreep-12/</guid>
       <description>&lt;p&gt;Last week, we successfully organized the Concreep12 conference at TU Delft. As a recent PhD graduate, I had the privilege of being part of the organizing team and presenting my research on early-age cracking of concrete.&lt;/p&gt;
 &lt;p&gt;I extend my heartfelt thanks to Erik Schlangen, Branko Šavija, Iris Batterham, and my wonderful friends and colleagues at the Microlab. It was a pleasure to meet and converse with so many outstanding researchers, exchanging research experiences and ideas. I look forward to meeting you and continuing our discussions in the future.&lt;/p&gt;
 &lt;hr&gt;
@@ -54,25 +54,25 @@
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://MinfeiLiang.github.io/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://MinfeiLiang.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Two scale models for fracture behaviours of cementitious materials subjected to static and cyclic loadings</title>
-      <link>http://localhost:1313/publication/gan-2024/</link>
+      <link>https://MinfeiLiang.github.io/publication/gan-2024/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gan-2024/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/gan-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My PhD defense</title>
-      <link>http://localhost:1313/post/phd_defense/</link>
+      <link>https://MinfeiLiang.github.io/post/phd_defense/</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/phd_defense/</guid>
+      <guid>https://MinfeiLiang.github.io/post/phd_defense/</guid>
       <description>&lt;p&gt;I am glad to announce that I have recently completed my Ph.D. at Delft University of Technology (TU Delft). My dissertation, titled &amp;ldquo;Stress Evolution in Early-Age Cementitious Materials Considering Autogenous Deformation and Creep: New Experimental and Modelling Techniques,&amp;rdquo; aims to tackle the early-age cracking problems of concrete and develop new experimental and modeling approaches.&lt;/p&gt;
 &lt;p&gt;I would like to express my heartfelt gratitude to my advisors, Erik Schlangen and Branko Savija, for their invaluable guidance and support throughout my research journey. Their expertise and encouragement have been crucial in my academic and personal growth. I extend my thanks to the committee members Klaas van Breugel, Max Hendriks, Eddie Koenders, Stephanie Staquet, Ya Wei, and Chris Kleijn for their feedback and contributions to my dissertation.
 I also want to thank my colleagues at the Microlab for their collaboration and friendship, which have greatly enriched my experience.&lt;/p&gt;
@@ -84,17 +84,17 @@ Thank you all for being a part of my journey!&lt;/p&gt;
     
     <item>
       <title>Peanut shaped auxetic cementitious cellular composite (ACCC)</title>
-      <link>http://localhost:1313/publication/xie-2024/</link>
+      <link>https://MinfeiLiang.github.io/publication/xie-2024/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xie-2024/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/xie-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Mini-TSTM for Efficient Stress Test</title>
-      <link>http://localhost:1313/publication/a-mini-tstm/</link>
+      <link>https://MinfeiLiang.github.io/publication/a-mini-tstm/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/a-mini-tstm/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/a-mini-tstm/</guid>
       <description>&lt;p&gt;The principal of TSTM tests:
 &lt;img src=&#34;featured1.jpg&#34; alt=&#34;Image 1&#34;&gt;
 The numerical scheme for stress evolution:
@@ -106,65 +106,65 @@ The numerical scheme for stress evolution:
     
     <item>
       <title>Automatic enhancement of vascular configuration for self-healing concrete through reinforcement learning approach</title>
-      <link>http://localhost:1313/publication/wan-2024/</link>
+      <link>https://MinfeiLiang.github.io/publication/wan-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wan-2024/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/wan-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep residual learning for acoustic emission source localization in A steel-concrete composite slab</title>
-      <link>http://localhost:1313/publication/zhou-2024/</link>
+      <link>https://MinfeiLiang.github.io/publication/zhou-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhou-2024/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/zhou-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of temperature on autogenous deformation and early-age stress evolution in cement pastes with low water to cement ratio</title>
-      <link>http://localhost:1313/publication/liang-2024/</link>
+      <link>https://MinfeiLiang.github.io/publication/liang-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liang-2024/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/liang-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
+      <link>https://MinfeiLiang.github.io/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
+      <guid>https://MinfeiLiang.github.io/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
+      <link>https://MinfeiLiang.github.io/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
+      <guid>https://MinfeiLiang.github.io/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
+      <link>https://MinfeiLiang.github.io/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
+      <guid>https://MinfeiLiang.github.io/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
+      <link>https://MinfeiLiang.github.io/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
+      <guid>https://MinfeiLiang.github.io/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:1313/teaching/js/</link>
+      <link>https://MinfeiLiang.github.io/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/js/</guid>
+      <guid>https://MinfeiLiang.github.io/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -211,7 +211,7 @@ The numerical scheme for stress evolution:
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://MinfeiLiang.github.io/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -288,9 +288,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:1313/teaching/python/</link>
+      <link>https://MinfeiLiang.github.io/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/python/</guid>
+      <guid>https://MinfeiLiang.github.io/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -337,7 +337,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://MinfeiLiang.github.io/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -414,41 +414,41 @@ data.head()
     
     <item>
       <title>Lattice modelling of early-age creep of 3D printed segments with the consideration of stress history</title>
-      <link>http://localhost:1313/publication/chang-2023/</link>
+      <link>https://MinfeiLiang.github.io/publication/chang-2023/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chang-2023/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/chang-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ultra-thin Strain Hardening Cementitious Composite (SHCC) layer in reinforced concrete cover zone for crack width control</title>
-      <link>http://localhost:1313/publication/he-2023/</link>
+      <link>https://MinfeiLiang.github.io/publication/he-2023/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/he-2023/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/he-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can superabsorbent polymers be used as rheology modifiers for cementitious materials in the context of 3D concrete printing?</title>
-      <link>http://localhost:1313/publication/chen-2023/</link>
+      <link>https://MinfeiLiang.github.io/publication/chen-2023/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chen-2023/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/chen-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficiently Assessing the Early-Age Cracking Risk of Cementitious Materials with A Mini Temperature Stress Testing Machine</title>
-      <link>http://localhost:1313/publication/liang-2023/</link>
+      <link>https://MinfeiLiang.github.io/publication/liang-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liang-2023/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/liang-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Active Learning for Stress Evolution Prediction</title>
-      <link>http://localhost:1313/publication/active-learning/</link>
+      <link>https://MinfeiLiang.github.io/publication/active-learning/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/active-learning/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/active-learning/</guid>
       <description>&lt;p&gt;The Thermo-Chemo-Mechanical Model for early-age stress evolution:
 &lt;img src=&#34;featured1.jpg&#34; alt=&#34;Image 1&#34;&gt;
 Some nice results:
@@ -460,49 +460,49 @@ Some nice results:
     
     <item>
       <title>3D concrete printing: Lattice modeling of structural failure considering damage and deformed geometry</title>
-      <link>http://localhost:1313/publication/chang-2022/</link>
+      <link>https://MinfeiLiang.github.io/publication/chang-2022/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chang-2022/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/chang-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexural strength and fatigue properties of interfacial transition zone at the microscale</title>
-      <link>http://localhost:1313/publication/gan-2022/</link>
+      <link>https://MinfeiLiang.github.io/publication/gan-2022/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gan-2022/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/gan-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Micro-Mechanical Properties of Slag Rim Formed in Cement–Slag System Evaluated by Nanoindentation Combined with SEM</title>
-      <link>http://localhost:1313/publication/zhang-2022/</link>
+      <link>https://MinfeiLiang.github.io/publication/zhang-2022/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhang-2022/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/zhang-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thermal deformation and stress of alkali-activated slag concrete under semi-adiabatic condition: Experiments and simulations</title>
-      <link>http://localhost:1313/publication/li-2022/</link>
+      <link>https://MinfeiLiang.github.io/publication/li-2022/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/li-2022/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/li-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interpretable Ensemble-Machine-Learning models for predicting creep behavior of concrete</title>
-      <link>http://localhost:1313/publication/liang-2022/</link>
+      <link>https://MinfeiLiang.github.io/publication/liang-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liang-2022/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/liang-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A numerical study of fatigue of hardened cement paste at the microscale</title>
-      <link>http://localhost:1313/publication/gan-2021/</link>
+      <link>https://MinfeiLiang.github.io/publication/gan-2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gan-2021/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/gan-2021/</guid>
       <description></description>
     </item>
     

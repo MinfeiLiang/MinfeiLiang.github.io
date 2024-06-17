@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experimental and Numerical Study for Early-Age Stress | MinfeiLiang</title>
-    <link>http://localhost:1313/tags/experimental-and-numerical-study-for-early-age-stress/</link>
-      <atom:link href="http://localhost:1313/tags/experimental-and-numerical-study-for-early-age-stress/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://MinfeiLiang.github.io/tags/experimental-and-numerical-study-for-early-age-stress/</link>
+      <atom:link href="https://MinfeiLiang.github.io/tags/experimental-and-numerical-study-for-early-age-stress/index.xml" rel="self" type="application/rss+xml" />
     <description>Experimental and Numerical Study for Early-Age Stress</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Experimental and Numerical Study for Early-Age Stress</title>
-      <link>http://localhost:1313/tags/experimental-and-numerical-study-for-early-age-stress/</link>
+      <link>https://MinfeiLiang.github.io/tags/experimental-and-numerical-study-for-early-age-stress/</link>
     </image>
     
     <item>
       <title>A Mini-TSTM for Efficient Stress Test</title>
-      <link>http://localhost:1313/publication/a-mini-tstm/</link>
+      <link>https://MinfeiLiang.github.io/publication/a-mini-tstm/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/a-mini-tstm/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/a-mini-tstm/</guid>
       <description>&lt;p&gt;The principal of TSTM tests:
 &lt;img src=&#34;featured1.jpg&#34; alt=&#34;Image 1&#34;&gt;
 The numerical scheme for stress evolution:

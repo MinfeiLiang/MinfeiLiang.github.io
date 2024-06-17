@@ -2,141 +2,141 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article-Journal | MinfeiLiang</title>
-    <link>http://localhost:1313/publication_types/article-journal/</link>
-      <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://MinfeiLiang.github.io/publication_types/article-journal/</link>
+      <atom:link href="https://MinfeiLiang.github.io/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Article-Journal</title>
-      <link>http://localhost:1313/publication_types/article-journal/</link>
+      <link>https://MinfeiLiang.github.io/publication_types/article-journal/</link>
     </image>
     
     <item>
       <title>Tensile behavior of rebar-reinforced coarse aggregate ultra-high performance concrete (R-CA-UHPC) members: Experiments and restrained shrinkage creep effect</title>
-      <link>http://localhost:1313/publication/shi-2024/</link>
+      <link>https://MinfeiLiang.github.io/publication/shi-2024/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/shi-2024/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/shi-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Two scale models for fracture behaviours of cementitious materials subjected to static and cyclic loadings</title>
-      <link>http://localhost:1313/publication/gan-2024/</link>
+      <link>https://MinfeiLiang.github.io/publication/gan-2024/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gan-2024/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/gan-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peanut shaped auxetic cementitious cellular composite (ACCC)</title>
-      <link>http://localhost:1313/publication/xie-2024/</link>
+      <link>https://MinfeiLiang.github.io/publication/xie-2024/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xie-2024/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/xie-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic enhancement of vascular configuration for self-healing concrete through reinforcement learning approach</title>
-      <link>http://localhost:1313/publication/wan-2024/</link>
+      <link>https://MinfeiLiang.github.io/publication/wan-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wan-2024/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/wan-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep residual learning for acoustic emission source localization in A steel-concrete composite slab</title>
-      <link>http://localhost:1313/publication/zhou-2024/</link>
+      <link>https://MinfeiLiang.github.io/publication/zhou-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhou-2024/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/zhou-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of temperature on autogenous deformation and early-age stress evolution in cement pastes with low water to cement ratio</title>
-      <link>http://localhost:1313/publication/liang-2024/</link>
+      <link>https://MinfeiLiang.github.io/publication/liang-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liang-2024/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/liang-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lattice modelling of early-age creep of 3D printed segments with the consideration of stress history</title>
-      <link>http://localhost:1313/publication/chang-2023/</link>
+      <link>https://MinfeiLiang.github.io/publication/chang-2023/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chang-2023/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/chang-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ultra-thin Strain Hardening Cementitious Composite (SHCC) layer in reinforced concrete cover zone for crack width control</title>
-      <link>http://localhost:1313/publication/he-2023/</link>
+      <link>https://MinfeiLiang.github.io/publication/he-2023/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/he-2023/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/he-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can superabsorbent polymers be used as rheology modifiers for cementitious materials in the context of 3D concrete printing?</title>
-      <link>http://localhost:1313/publication/chen-2023/</link>
+      <link>https://MinfeiLiang.github.io/publication/chen-2023/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chen-2023/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/chen-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficiently Assessing the Early-Age Cracking Risk of Cementitious Materials with A Mini Temperature Stress Testing Machine</title>
-      <link>http://localhost:1313/publication/liang-2023/</link>
+      <link>https://MinfeiLiang.github.io/publication/liang-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liang-2023/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/liang-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3D concrete printing: Lattice modeling of structural failure considering damage and deformed geometry</title>
-      <link>http://localhost:1313/publication/chang-2022/</link>
+      <link>https://MinfeiLiang.github.io/publication/chang-2022/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chang-2022/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/chang-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexural strength and fatigue properties of interfacial transition zone at the microscale</title>
-      <link>http://localhost:1313/publication/gan-2022/</link>
+      <link>https://MinfeiLiang.github.io/publication/gan-2022/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gan-2022/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/gan-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Micro-Mechanical Properties of Slag Rim Formed in Cement–Slag System Evaluated by Nanoindentation Combined with SEM</title>
-      <link>http://localhost:1313/publication/zhang-2022/</link>
+      <link>https://MinfeiLiang.github.io/publication/zhang-2022/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhang-2022/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/zhang-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thermal deformation and stress of alkali-activated slag concrete under semi-adiabatic condition: Experiments and simulations</title>
-      <link>http://localhost:1313/publication/li-2022/</link>
+      <link>https://MinfeiLiang.github.io/publication/li-2022/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/li-2022/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/li-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interpretable Ensemble-Machine-Learning models for predicting creep behavior of concrete</title>
-      <link>http://localhost:1313/publication/liang-2022/</link>
+      <link>https://MinfeiLiang.github.io/publication/liang-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liang-2022/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/liang-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A numerical study of fatigue of hardened cement paste at the microscale</title>
-      <link>http://localhost:1313/publication/gan-2021/</link>
+      <link>https://MinfeiLiang.github.io/publication/gan-2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gan-2021/</guid>
+      <guid>https://MinfeiLiang.github.io/publication/gan-2021/</guid>
       <description></description>
     </item>
     
