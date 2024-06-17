@@ -1,0 +1,38 @@
+---
+title: New insights into creep and creep recovery of hardened cement paste at micro
+  scale
+authors:
+- Siming Liang
+- Ya Wei
+date: '2020-07-01'
+publishDate: '2024-06-17T14:55:13.923445Z'
+publication_types:
+- article-journal
+publication: '*Construction and Building Materials*'
+doi: 10.1016/j.conbuildmat.2020.118724
+abstract: Indentation technique has been a popular way to measure the micro creep
+  of cementitious materials. However, several aspects concerning the measured indentation
+  creep (e.g., recoverable or irrecoverable, the underlying mechanisms) are still
+  unclear. This study investigated the micro creep and creep recovery of mature cement
+  paste by indentation technique. Continuous stiffness measurement tests were first
+  carried out to determine the indentation force required to measure the homogeneous
+  properties of cement paste. Then the micro creep and creep recovery of cement paste
+  were measured via microindentation tests that contain a holding stage at the maximum
+  indentation force and a reholding stage incorporated into the unloading stage. It
+  is found that both the recoverable creep and irrecoverable creep can be measured
+  by the microindentation tests. The micro recoverable creep of cement paste that
+  mainly evolves over the loading stage is about 30–40% of the total creep, and the
+  logarithm of the micro creep recovery rate decreases bilinearly with respect to
+  time, which are consistent with the observed creep recovery at macro scale. The
+  long-term creep rate of cement paste appears independent of loading duration, holding
+  duration, indentation force amplitude, and unloading duration of the microindentation
+  tests, suggesting it is an intrinsic material parameter. The identification of recoverable
+  and irrecoverable creep at micro scale can contribute to a better understanding
+  of the creep mechanisms of cementitious materials.
+tags:
+- Creep
+- Creep recovery
+- Hardened cement paste
+- Micro scale
+- Microindentation
+---

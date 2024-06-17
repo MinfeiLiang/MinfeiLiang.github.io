@@ -1,0 +1,37 @@
+---
+title: Microstructural Aspects of the Mechanical Response of Plain Concrete
+authors:
+- S. J. Pantazopoulou
+- R. H. Mills
+date: '1995-01-01'
+publishDate: '2024-06-17T14:55:14.970035Z'
+publication_types:
+- article-journal
+publication: '*ACI Materials Journal*'
+doi: 10.14359/9780
+abstract: It is generally acknowledged that mechanical properties of concrete such
+  as strength and stiffness are influenced directly by the physical properties of
+  material microstructure. However, this relationship is rarely addressed in constitutive
+  models of material response to mechanical loads. Instead, the most frequently sought
+  alternative for development of such models is by curve-fitting of the database of
+  experimental stress-strain results for each range of nominal cylinder strength,
+  this being related to the water-cement ratio. A simplified constitutive model that
+  recognizes and incorporates the properties of microstructure and its influence on
+  mechanical response is developed in this paper. The model evaluates uniaxial compressive
+  stress at any level of axial strain, using a strain-dependent estimate of material
+  stiffness. The initial elastic modulus of uncracked concrete is evaluated, based
+  on water-cement ratio, age, volume fraction of aggregates, paste porosity, degree
+  of hydration, and paste-aggregate interface properties. Reduction of the initial
+  modulus with increasing load is modeled by the application of a factor that depends
+  on the natural porosity of the material and mechanically induced porosity as it
+  is assessed by the area strain that develops in the cross section supporting the
+  load. Using this approach, it is possible to model the change effected on the initial
+  resistance of the material from progressive microcrack growth and internal damage
+  occurring in the concrete. The sensitivity of the proposed model to several variables
+  was evaluated from parametric studies and by comparisons with available experimental
+  data.
+links:
+- name: URL
+  url: 
+    http://www.concrete.org/Publications/ACIMaterialsJournal/ACIJournalSearch.aspx?m=details&ID=9780
+---

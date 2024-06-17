@@ -1,0 +1,43 @@
+---
+title: Influence of triethanolamine on mechanical strength and hydration performance
+  of blended cement containing fly ash, limestone and slag
+authors:
+- Yan He
+- Shuhua Liu
+- Xiong Zhang
+- Wenbin Liu
+- Gaoyu Liao
+- Mingfeng Xu
+date: '2021-01-01'
+publishDate: '2024-06-17T14:55:15.816608Z'
+publication_types:
+- article-journal
+publication: '*Journal of Building Engineering*'
+doi: 10.1016/j.jobe.2021.102879
+abstract: Triethanolamine (TEA) is known as a widely-used cement additive for regulating
+  setting time, hydration process and mechanical strength. However, the working mechanism
+  of TEA on blended cement with various kinds of minerals, has not yet thoroughly
+  explored. This invesitigation focused on effects of TEA on the strength enhancement
+  and hydration properties of the blended cementitious materials, containing fly ash,
+  slag, limestone. Hydration heat evolution of the composite binder was studied by
+  isothermal calorimetry. Pore size distribution was analyzed through mercury injection
+  porosimetry (MIP), and the evolution of hydration products in the function of TEA
+  was investigated by X-ray diffractometry (XRD), differential thermal analysis (DTA)
+  and ther-mogravimetric analysis (TG). Microstructure and composition characteristics
+  of hydration products were studied through scanning electron microscopy (SEM) equiped
+  with energy dispersive X-ray spectroscopy (EDX). Results showed that strength enhancement
+  effect of TEA varied when the component and proportion of cementitious materials
+  altered. Containing 30% fly ash and 10% limestone, the composite binder got the
+  optimal strength- enhancing effect to nearly 15%. When containing 30% slag and 10%
+  fly ash, the composite binder obtained the worst strength-enhancing effect with
+  about 5%. The addition of TEA prolonged the induction period, and enhanced the formation
+  of AFt. With high aluminate glass phases, fly ash was vulnerable to be influenced
+  by the complexation of TEA, and hence the pozzolanic reaction of fly ash was accelerated
+  significantly, resulting in reduced content of Ca(OH)2 (CH) as well as increased
+  production of hydrates. Limestone participated to accel-erate the hydration of C3A,
+  and provided microcrystals for the growth of hydrates. Slag was mainly composed
+  of high calcium glass phases and was rarely impacted by the complexation of TEA.
+  The findings would gain a comprehensive insight of TEA in affecting the hydration
+  process of blended materials, and would provide expedient information on the technique
+  to control the hydration progress of composite binder.
+---

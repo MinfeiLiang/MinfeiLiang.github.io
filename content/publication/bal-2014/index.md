@@ -1,0 +1,43 @@
+---
+title: Artificial neural network for predicting creep of concrete
+authors:
+- Lyes Bal
+- François Buyle-Bodin
+date: '2014-10-01'
+publishDate: '2024-06-17T14:55:14.094206Z'
+publication_types:
+- article-journal
+publication: '*Neural Computing and Applications*'
+doi: 10.1007/s00521-014-1623-z
+abstract: The concrete is today the building material by excellence. Drying accompanies
+  the hardening of concrete and leads to significant dimensional changes that appear
+  as cracks. These cracks influence the durability of the concrete works. Deforming
+  a concrete element subjected to long-term loading is the sum of said instantaneous
+  and delayed deformation due to creep deformation. Concrete creep is the continuous
+  process of deformation of an element, which exerts a constant or variable load.
+  It depends in particular on the characteristics of concrete, age during loading,
+  the thickness of the element of the environmental humidity, and time. Creep is a
+  complex phenomenon, recognized but poorly understood. It is related to the effects
+  of migration of water into the pores and capillaries of the matrix and to a process
+  of reorganization of the structure of hydrated binder crystals. Applying a nonparametric
+  approach called artificial neural network (ANN) to effectively predict the dimensional
+  changes due to creep drying is the subject of this research. Using this approach
+  allows to develop models for predicting creep. These models use a multilayer backpropagation.
+  They depend on a very large database of experimental results issued from the literature
+  (RILEM Data Bank) and on appropriate choice of architectures and learning processes.
+  These models take into account the different parameters of concrete preservation
+  and making, which affect drying creep of concrete as relative humidity, cure period,
+  water-to-cement ratio (W/C), volume-to-surface area ratio (V/S), and fine aggregate-to-total
+  aggregate ratio, or fine aggregate-to-total aggregate ratio. To validate these models,
+  they are compared with parametric models as B3, ACI 209, CEB, and GL2000. In these
+  comparisons, it appears that ANN approach describes correctly the evolution with
+  time of drying creep. A parametric study is also conducted to quantify the degree
+  of influence of some of the different parameters used in the developed neural network
+  model.
+tags:
+- Artificial neural network
+- Concrete
+- Drying creep
+- Modeling
+- Prediction
+---
