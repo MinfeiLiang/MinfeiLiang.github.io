@@ -35,9 +35,12 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am interested in studies of mechanical tests, numerical modelling, and machine learning for enhancing a greener and smarter future of construction industries. My research experience covers a wide range of topics relevant to concrete materials/ structures, including experiments and simulations on early age properties/ behaviours, micromechanical properties/ behaviors, machine learning for surrogates of multiscale and multiphysics models, and calculation of structural properties/ behaviors of tunnels. 
-        I am currently working with generative machine learning and physics-informed machine learning for multiscale computational mechanics. I am about to start a new project on developing zero-emission building materials enhanced by artificial intelligence.  
+        My research covers a wide range of topics relevant to concrete materials/ structures, including experiments and simulations on early age properties/ behaviours, micromechanical properties/ behaviors, machine learning for surrogates of multiscale and multiphysics models, and calculation of structural properties/ behaviors of tunnels.
+    
+        I am currently working with generative machine learning and physics-informed machine learning for multiscale computational mechanics. I am about to start a new project on developing zero-emission building materials enhanced by artificial intelligence.
+    
         Please do not hesitate to reach out to discuss or collaborate 😃
+    
     design:
       columns: '1'
   - block: collection
