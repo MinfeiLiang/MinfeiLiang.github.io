@@ -1,18 +1,13 @@
-# Hugo Blox GitHub Action to convert Bibtex publications to Markdown-based webpages
 name: Import Publications From Bibtex
 
-# Require permission to create a PR
 permissions:
   contents: write
   pull-requests: write
 
-# Run workflow when a `.bib` file is added or updated in the `data/` folder
 on:
   push:
     branches: ['main']
     paths: ['publications.bib']
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
@@ -22,21 +17,50 @@ jobs:
     steps:
       - name: Checkout the repo
         uses: actions/checkout@v3
+      
       - name: Set up Python 3.12
         uses: actions/setup-python@v4
         with:
           python-version: "3.12"
+      
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install academic==0.10.0
+      
       - name: Run Academic (Bibtex To Markdown Converter)
-        # Check `.bib` file exists for case when action runs on `.bib` deletion
-        # Note GH only provides hashFiles func in `steps.if` context, not `jobs.if` context
         if: ${{ hashFiles('publications.bib') != '' }}
         run: academic import publications.bib content/publication/ --compact
+      
+      - name: Rename publication folders
+        run: |
+          import os
+          import re
+          import shutil
+          
+          base_dir = 'content/publication/'
+          
+          def get_new_folder_name(old_name):
+              # Extract author, year, and title
+              parts = old_name.split('-')
+              author = parts[0]
+              year = parts[1]
+              title = '-'.join(parts[2:])
+              # Keep first 3 words of the title
+              title_words = re.split('-|_', title)[:3]
+              new_title = '-'.join(title_words)
+              # Construct new folder name
+              new_name = f"{author}-{year}-{new_title}"
+              return new_name
+          
+          for folder in os.listdir(base_dir):
+              old_folder_path = os.path.join(base_dir, folder)
+              if os.path.isdir(old_folder_path):
+                  new_folder_name = get_new_folder_name(folder)
+                  new_folder_path = os.path.join(base_dir, new_folder_name)
+                  shutil.move(old_folder_path, new_folder_path)
+
       - name: Create Pull Request
-        # Set ID for `Check outputs` stage
         id: cpr
         uses: peter-evans/create-pull-request@v5
         with:
@@ -50,6 +74,7 @@ jobs:
           labels: automated-pr, content
           branch: hugoblox-import-publications
           delete-branch: true
+
       - name: Check outputs
         if: ${{ steps.cpr.outputs.pull-request-number }}
         run: |
