@@ -47,11 +47,12 @@ image:
   preview_only: false
 ---
 
-# Thesis Details
-
-Thesis on _Stress evolution in early-age concrete considering autogenous deformation and creep: New experimental and modelling techniques_. Supervised by [Prof Erik Schlangen](https://www.erikschlangen.net/) and [Prof Branko Šavija](https://www.tudelft.nl/en/staff/b.savija/).
 
 The principal of TSTM tests:
 ![Image 1](featured1.jpg)
 The numerical scheme for stress evolution:
-![Image 2](featured1.jpg)
+![Image 2](featured2.jpg)
+
+# Thesis Details
+
+Thesis on _Stress evolution in early-age concrete considering autogenous deformation and creep: New experimental and modelling techniques_. Supervised by [Prof Erik Schlangen](https://www.erikschlangen.net/) and [Prof Branko Šavija](https://www.tudelft.nl/en/staff/b.savija/).
