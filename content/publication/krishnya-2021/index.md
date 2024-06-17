@@ -1,0 +1,36 @@
+---
+title: A two-stage model for the prediction of mechanical properties of cement paste
+authors:
+- Siventhirarajah Krishnya
+- Yuya Yoda
+- Yogarajah Elakneswaran
+date: '2021-01-01'
+publishDate: '2024-06-17T14:55:13.437673Z'
+publication_types:
+- article-journal
+publication: '*Cement and Concrete Composites*'
+doi: 10.1016/J.CEMCONCOMP.2020.103853
+abstract: The mechanical properties such as compressive strength, Young's modulus
+  and Poisson's ratio are the most important parameters for design and structural
+  analysis in the field of Civil Engineering. In hydrated cement paste, these properties
+  are significantly determined by its microstructure. In this research work, a two-stage
+  model is proposed to systematically predict the mechanical properties of the cement
+  paste from the microstructure. In Stage-1, relative humidity, thermodynamic, cement
+  hydration and model for volumetric prediction are integrated to accurately predict
+  the volume fraction of hydration products. Subsequently the Stage-2 proposes a multi-scale
+  model (in three hierarchical levels) initiating from C–S–H matrix considering the
+  formation of two types of C–S–H (low- and high-density C–S–H) to cement paste for
+  the computation of the intrinsic mechanical properties of cement paste. As the volume
+  fraction of C–S–H and capillary porosity are the most significant components which
+  determines the mechanical properties of cement paste, prime consideration herein
+  is given to C–S–H space ratio. The proposed model is well verified at the predictions
+  of relative humidity, chemical shrinkage and capillary porosity in Stage-1; compressive
+  strength, Young's modulus and Poisson's ratio in Stage-2 with independent sets of
+  experimental results.
+tags:
+- C–S–H
+- Hydration products
+- Mechanical properties
+- Microstructure
+- Multi-scale model
+---

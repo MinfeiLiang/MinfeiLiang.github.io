@@ -1,0 +1,38 @@
+---
+title: Rate-type creep law of aging concrete based on Maxwell chain ER(t, r)
+authors:
+- Z P Bazant
+- S T Wu
+date: '1974-01-01'
+publishDate: '2024-06-17T14:55:14.131726Z'
+publication_types:
+- article-journal
+abstract: "It is shown that the linear creep law of concrete can be characterized
+  , with any desired accuracy, by a rate-type creep law that can be interpreted by
+  a Maxwell chain model of time-variable viscosities and spring moduli. Identification
+  of these parameters from the test data is accomplished by expanding into Dirichlet
+  ER series the relaxation curves, which in.turn are computed from the measured creep
+  curves. The identification has a unique solution E~ if a certain smoothing condition
+  is imposed upon the relaxation spectra. The formulation is useful for the step-by-step
+  time integration of larger finite element systems because it makes the E~ storage
+  of stress history unnecessary. For this purpose a new, unconditionally stable numerical
+  algorithm is presented, allowing an arbitrary increase of the time step as the creep
+  rate decays. E#, The rate-type formulation permits establishing a correlation with
+  the rate processes in the microstructure and thus opens the way toward rational
+  generalizations to variable temperature and J(t, t') water content. The previously
+  developed Kelvin-type chain also permits such a correlation, but its identification
+  from test. data is more complicated. BASIC NOTATIONS E(t) = En(t,t) = l/J(t, t)
+  = instantaneous Young's modulus of concrete; E\\\" = pseudo-instantaneous Young's
+  modulus in Eq. (18); F/, m t, t' t', to WI~ W2~ W3 e~ (7 80 , ~t~ = relaxation modulus
+  = stress in time t caused by a constant unit strain enforced in time t' (Eq. (1));
+  = given data on ER; = modulus of#th spring in Maxwell chain, fig. I, Eq. (3); =
+  ultimate relaxation modulus (fig. 1, Eq. (6)); = coefficients of smoothing expressions
+  (9), (t0), (11); = creep function (or compliance) = stress at time t caused by a
+  constant unit stress acting since time t' (Eq. 1); = number of units in Maxwell
+  chain, m = n-1; = time from casting of concrete (in days); = time of application
+  of constant stress or strain; = weights in the penalty term in Eq. (8); = strain
+  and stress; = prescribed stress-independent in-elastic strain (Eq. (1)) and pseudo-inelastic
+  strain in Eq. (18); 45 VOL. 7-N ~ 37-1974-MATI~RIAUX ET CONSTRUCTIONS a, = hidden
+  stresses in Eq. (3) : stress in the /zth spring in Maxwell chain (fig. I, Eq. (3));
+  ~."
+---

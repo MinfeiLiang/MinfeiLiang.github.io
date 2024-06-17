@@ -1,0 +1,20 @@
+---
+title: Towards Principled Methods for Training Generative Adversarial Networks
+authors:
+- Martin Arjovsky
+- Léon Bottou
+date: '2017-01-01'
+publishDate: '2024-06-17T14:55:16.667151Z'
+publication_types:
+- article-journal
+abstract: The goal of this paper is not to introduce a single algorithm or method,
+  but to make theoretical steps towards fully understanding the training dynamics
+  of generative adversarial networks. In order to substantiate our theoretical analysis,
+  we perform targeted experiments to verify our assumptions, illustrate our claims,
+  and quantify the phenomena. This paper is divided into three sections. The first
+  section introduces the problem at hand. The second section is dedicated to studying
+  and proving rigorously the problems including instability and saturation that arize
+  when training generative adversarial networks. The third section examines a practical
+  and theoretically grounded direction towards solving these problems, while introducing
+  new tools to study them.
+---

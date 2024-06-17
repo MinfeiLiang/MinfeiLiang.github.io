@@ -1,0 +1,37 @@
+---
+title: Effect of phases on the creep properties of cement paste based on indentation
+  test and homogenization scheme
+authors:
+- Yue Li
+- Yunze Liu
+- Zigeng Wang
+- Hongwen Li
+- Jinlei Mu
+date: '2022-01-01'
+publishDate: '2024-06-17T14:55:13.422037Z'
+publication_types:
+- article-journal
+publication: '*Construction and Building Materials*'
+doi: 10.1016/j.conbuildmat.2021.125957
+abstract: This article investigated the effect of the individual phases on the creep
+  properties of cement paste. First of all, the contact creep modulus of the paste
+  was obtained by the microindentation test, and the contact creep moduli of the individual
+  phases in the paste were obtained by the nanoindentation test. Secondly, the volume
+  fractions of individual phases were determined by micro test and statistical processing.
+  Then, the contact creep modulus of the paste was calculated with the homogenization
+  method of multiple scales and compared with the creep modulus of the paste measured
+  by microindentation. Finally, the effect of pores, C-S-H, and unhydrated clinker
+  (UC) on the creep modulus of the paste was quantitatively analyzed. The results
+  showed that when the contact creep modulus of the pore was regarded as 0 GPa, the
+  contact creep modulus of the paste was significantly underestimated. The effective
+  contact creep modulus of the pore should be used for the homogenization calculation.
+  The C-S-H gel with low density (LD) and C-S-H gel with high density (HD) had opposite
+  effects on the modulus of creep of the paste so that those two gels needed to be
+  treated separately during the homogenization process. The variation range of the
+  contact creep modulus of UC was relatively large with slight effect on the homogenized
+  contact creep modulus of the paste. Consequently, it can be treated as single-phase
+  in the homogenization calculation.
+links:
+- name: URL
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0950061821036898
+---
