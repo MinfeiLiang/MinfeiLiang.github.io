@@ -2,189 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creep | MinfeiLiang</title>
-    <link>https://MinfeiLiang.github.io/tags/creep/</link>
-      <atom:link href="https://MinfeiLiang.github.io/tags/creep/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/creep/</link>
+      <atom:link href="http://localhost:1313/tags/creep/index.xml" rel="self" type="application/rss+xml" />
     <description>Creep</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://MinfeiLiang.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Creep</title>
-      <link>https://MinfeiLiang.github.io/tags/creep/</link>
+      <link>http://localhost:1313/tags/creep/</link>
     </image>
     
     <item>
       <title>Interpretable Ensemble-Machine-Learning models for predicting creep behavior of concrete</title>
-      <link>https://MinfeiLiang.github.io/publication/liang-2022/</link>
+      <link>http://localhost:1313/publication/liang-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/liang-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Restraining effect of aggregates on autogenous shrinkage in cement mortar and concrete</title>
-      <link>https://MinfeiLiang.github.io/publication/lu-2021/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/lu-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Considering the effect of the randomness of concrete strength and relative humidity on concrete creep</title>
-      <link>https://MinfeiLiang.github.io/publication/zheng-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/zheng-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prediction of the basic creep of concrete with high substitution of Portland cement by mineral additions at early age</title>
-      <link>https://MinfeiLiang.github.io/publication/delsaute-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/delsaute-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modelling of autogenous shrinkage of hardening cement paste</title>
-      <link>https://MinfeiLiang.github.io/publication/lu-2020/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/lu-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Confronting a refined multiscale estimate for the aging basic creep of concrete with a comprehensive experimental database</title>
-      <link>https://MinfeiLiang.github.io/publication/lavergne-2020/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/lavergne-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Micro-cantilever testing on the short-term creep behaviour of cement paste at micro-scale</title>
-      <link>https://MinfeiLiang.github.io/publication/gan-2020/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/gan-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New insights into creep and creep recovery of hardened cement paste at micro scale</title>
-      <link>https://MinfeiLiang.github.io/publication/liang-2020/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/liang-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Intrinsic viscoelasticity of C-S-H assessed from basic creep of cement pastes</title>
-      <link>https://MinfeiLiang.github.io/publication/hu-2019/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/hu-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New relaxation function and age-adjusted effective modulus expressions for creep analysis of concrete structures</title>
-      <link>https://MinfeiLiang.github.io/publication/wang-2019/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/wang-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shrinkage and creep of high-performance concrete based on calcium sulfoaluminate cement</title>
-      <link>https://MinfeiLiang.github.io/publication/sirtoli-2019/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/sirtoli-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Early age creep of cement paste - Governing mechanisms and role of water-A microindentation study</title>
-      <link>https://MinfeiLiang.github.io/publication/mallick-2019/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/mallick-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effect of creep on high-order shear deformable beams</title>
-      <link>https://MinfeiLiang.github.io/publication/ghabdian-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/ghabdian-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Double feedback control method for determining early-age restrained creep of concrete using a temperature stress testing machine</title>
-      <link>https://MinfeiLiang.github.io/publication/zhu-2018/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/zhu-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microstructural effects in the simulation of creep of concrete</title>
-      <link>https://MinfeiLiang.github.io/publication/giorla-2018/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/giorla-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A 12 year EDF study of concrete creep under uniaxial and biaxial loading</title>
-      <link>https://MinfeiLiang.github.io/publication/charpin-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/charpin-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finite-Element Modeling of Early-Age Concrete Behavior</title>
-      <link>https://MinfeiLiang.github.io/publication/liu-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/liu-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting long-term compressive creep of concrete using inverse analysis method</title>
-      <link>https://MinfeiLiang.github.io/publication/ghasemzadeh-2016/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/ghasemzadeh-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effect of creep induction at an early age on subsequent prestress loss and structural response of prestressed concrete beam</title>
-      <link>https://MinfeiLiang.github.io/publication/asamoto-2014/</link>
-      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/asamoto-2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bending and creep buckling response of viscoelastic functionally graded beam-columns</title>
-      <link>https://MinfeiLiang.github.io/publication/hamed-2012/</link>
-      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/hamed-2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mechanical properties of self consolidating concrete blended with high volumes of fly ash and slag</title>
-      <link>https://MinfeiLiang.github.io/publication/kuder-2012/</link>
-      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/kuder-2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modelling of concrete at early ages: Application to an externally restrained slab</title>
-      <link>https://MinfeiLiang.github.io/publication/faria-2006/</link>
-      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
-      <guid>https://MinfeiLiang.github.io/publication/faria-2006/</guid>
+      <guid>http://localhost:1313/publication/liang-2022/</guid>
       <description></description>
     </item>
     
