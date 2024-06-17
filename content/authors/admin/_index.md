@@ -135,4 +135,4 @@ awards:
 
 ## About Me
 
-Minfei Liang is a postdoctoral researcher at TU Delft. His research aims to develop zero-emission building materials and structcrues enhanced by artificial intelligence techniques. He developed novel experimental and modelling techniques for early-age stress evolution of concrete materials. 
+I am a postdoctoral researcher at TU Delft. His research aims to develop zero-emission building materials and structcrues enhanced by artificial intelligence techniques. I developed novel experimental and modelling techniques for early-age stress evolution of concrete materials. 
