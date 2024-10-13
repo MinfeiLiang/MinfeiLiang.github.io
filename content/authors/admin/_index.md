@@ -24,19 +24,19 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Delft University of Technology
-    url: https://www.tudelft.nl/citg/over-faculteit/afdelingen/materials-mechanics-management-design-3md/sections-labs/materials-environment/staff/m-minfei-liang
+  - name: University of Oxford
+    url: https://www.physics.ox.ac.uk/our-people/liangm
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:m.liang-1@tudelft.com' 
+    url: 'mailto:minfei.liang@physics.ox.ac.uk' 
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/minfei-liang-140a931a5/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=UE6ZDQQAAAAJ&hl=nl
+    url: https://scholar.google.com/citations?user=UE6ZDQQAAAAJ&hl=en
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Liang-Minfei
 
@@ -71,11 +71,20 @@ education:
       
 work:
   - position: Postdoctoral Researcher
+    company_name: University of Oxford
+    company_url: 'https://www.physics.ox.ac.uk/our-people/liangm'
+    company_logo: ''
+    date_start: 2024-10-01
+    date_end: 'Present'
+    summary: |2-
+      Responsibilities include:
+      - Developing zero-emission building materials enhanced by artificial intelligence
+  - position: Postdoctoral Researcher
     company_name: Delft University of Technology
     company_url: 'https://www.tudelft.nl/'
     company_logo: ''
     date_start: 2024-04-04
-    date_end: ''
+    date_end: '2024-10-01'
     summary: |2-
       Responsibilities include:
       - Organized the 12th international conference of Concrete Creep (Concreep 12)
@@ -135,4 +144,4 @@ awards:
 
 ## About Me
 
-I am a postdoctoral researcher at TU Delft, specializing in mechanical testing, numerical modeling, and machine learning applications for materials and structures in civil engineering. My work is dedicated to advancing a greener and smarter future for the construction industry.
+I am a postdoctoral researcher at Univeristy of Oxford, specializing in mechanical testing, numerical modeling, and machine learning applications for materials and structures in civil engineering. My work is dedicated to advancing a greener and smarter future for the construction industry.
