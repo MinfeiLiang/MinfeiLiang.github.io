@@ -75,7 +75,7 @@ work:
     company_url: 'https://www.physics.ox.ac.uk/our-people/liangm'
     company_logo: ''
     date_start: 2024-10-01
-    date_end: 'Present'
+    date_end: ''
     summary: |2-
       Responsibilities include:
       - Developing zero-emission building materials enhanced by artificial intelligence
