@@ -3,7 +3,7 @@ title: ZEBAI Project’s 2nd General Assembly
 summary: An EU project for advancing AI-Driven Construction Material Optimization 
 date: 2025-01-30
 authors:
-  - Minfei Liang
+  - admin
 tags:
   - ZEBAI project
 ---
