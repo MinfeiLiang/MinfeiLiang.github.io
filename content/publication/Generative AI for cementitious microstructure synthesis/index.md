@@ -28,9 +28,6 @@ abstract: The microstructure of cement paste determines the overall performance 
 # Summary. An optional shortened abstract.
 summary: This paper presents my first attempt at using generative AI to synthesize microstructures of cementitious materials. A Denoising Diffusion Probabilistic Model (DDPM) was employed to generate synthetic BSE images of OPC with a water-to-cement ratio (w/c) of 0.4. The generated images closely resemble real BSE images in both statistical and microstructural analyses. I have recently extended this work to the conditional generation of three-dimensional hydrating cementitious microstructures with varying w/c ratios, Blaine values, and curing ages. Stay tuned for further updates!
 
-# Full paper access. 
-The full paper can be found [here](https://www.sciencedirect.com/science/article/pii/S2666165925000249).
-
 tags:
   - Experimental and numerical study for Early-Age Stress
 
@@ -56,3 +53,6 @@ The denoising process of generating a cement microstructure from Gaussian noise:
 ![Image 1](featured1.jpg)
 The stress-strain curves of generated and original microstructures obtained from Lattice Fracture Models:
 ![Image 2](featured2.jpg)
+
+# Full paper access. 
+The full paper can be found [here](https://www.sciencedirect.com/science/article/pii/S2666165925000249).
