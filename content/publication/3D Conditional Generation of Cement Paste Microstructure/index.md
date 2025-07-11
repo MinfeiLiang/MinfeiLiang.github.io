@@ -48,6 +48,8 @@ image:
   preview_only: false
 ---
 
+This paper is extended from previous 2D unconditional generation of cement paste. We proposed a latent diffusion transformer for generating the microstructure of cement paste with different Blaine values, wc ratios, and ages!!! Promising results show great potential of generative AI in replacing the expensive SEM/ CT tests!
+
 
 The generated 3D cement paste microcubes which visually assembling the real microstructures:
 ![Image 1](featured1.jpg)
