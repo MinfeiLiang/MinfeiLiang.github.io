@@ -57,4 +57,4 @@ The greyvalue statistics of real and generated microstructures are almost the sa
 ![Image 2](feature2.png)
 
 # Full paper access. 
-The full paper can be found [here](https://www.sciencedirect.com/science/article/pii/S2666165925000249).
+The full paper can be found [here](https://www.sciencedirect.com/science/article/pii/S0264127525006719).
