@@ -26,7 +26,7 @@ abstract: Portland cement paste has a highly heterogenous evolving microstructur
 
 
 # Summary. An optional shortened abstract.
-summary: This paper is extended from previous 2D unconditional generation of cement paste. We proposed a latent diffusion transformer for generating the microstructure of cement paste with different Blaine values, wc ratios, and ages!!! Promising results show great potential of generative AI in replacing the expensive SEM/ CT tests!
+summary: This paper is extended from previous one on 2D unconditional generation of cement paste. We proposed a latent diffusion transformer for generating the 3D microstructure of cement paste with different Blaine values, wc ratios, and ages!!! Promising results show great potential of generative AI in replacing the expensive SEM/ CT tests!
 
 tags:
   - AI-enhanced material design
