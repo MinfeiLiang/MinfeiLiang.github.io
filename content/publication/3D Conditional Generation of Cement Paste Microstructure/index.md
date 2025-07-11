@@ -52,9 +52,9 @@ This paper is extended from previous 2D unconditional generation of cement paste
 
 
 The generated 3D cement paste microcubes which visually assembling the real microstructures:
-![Image 1](featured1.jpg)
+![Image 1](featured1.png)
 The greyvalue statistics of real and generated microstructures are almost the same!!!
-![Image 2](featured2.jpg)
+![Image 2](featured2.png)
 
 # Full paper access. 
 The full paper can be found [here](https://www.sciencedirect.com/science/article/pii/S2666165925000249).
