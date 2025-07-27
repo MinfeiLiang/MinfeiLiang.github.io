@@ -1,7 +1,7 @@
 ---
 title: SSCS 2025 
 summary: It was so nice to be back and meet all the old friends and excellent researchers. 
-date: 2026-07-03
+date: 2025-07-03
 authors:
   - admin
 tags:
