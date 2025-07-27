@@ -22,7 +22,7 @@ Many thanks to Prof. Sonia Contera and the EU ZEBAI project for supporting my pa
 </figure>
 
 <figure style="text-align: center;">
-  <img src="catching_up_with_friends.jpg" alt="Chatting with colleagues after the session">
+  <img src="Catching_up_with_friends.jpg" alt="Chatting with colleagues after the session">
   <figcaption><em>Catching up with friends</em></figcaption>
 </figure>
 ---
