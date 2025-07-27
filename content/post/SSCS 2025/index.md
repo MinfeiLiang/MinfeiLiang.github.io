@@ -16,7 +16,8 @@ It was an inspiring and enriching experience!
 
 Many thanks to Prof. Sonia Contera and the EU ZEBAI project for supporting my participation.
 
-![Presenting at SSCS 2025](Presenting_at_SSCS_2025.jpg)
+{{< figure src="Presenting_at_SSCS_2025.jpg" title="Presenting at SSCS 2025" alt="Presenting my research at SSCS 2025" >}}
 
-![Catching up with colleagues](Catching_up_with_friends.jpg)
+{{< figure src="Catching_up_with_friends.jpg" title="Catching up with colleagues" alt="Chatting with colleagues after the session" >}}
+
 ---
