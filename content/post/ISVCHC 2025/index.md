@@ -16,9 +16,19 @@ The best part? Meeting many friends from the Microlab again. The energy, the con
 
 Many thanks to Prof. Sonia Contera and the EU ZEBAI project for supporting my trip.
 
-![Presenting my work](My presentation.jpg)
 
-![Erik presenting my work](Erik presenting my work.jpg)
+<figure style="text-align: center;">
+  <img src="My presentation.jpg" alt="Presenting my work">
+  <figcaption><em>Presenting my work</em></figcaption>
+</figure>
 
-![Catching up with friends](Gala with friends.jpg)
+<figure style="text-align: center;">
+  <img src="Erik presenting my work.jpg" alt="Erik presenting my work">
+  <figcaption><em>Erik presenting my work</em></figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="Gala with friends.jpg" alt="Catching up with friends">
+  <figcaption><em>Catching up with friends</em></figcaption>
+</figure>
 ---
